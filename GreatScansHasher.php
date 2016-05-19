@@ -104,8 +104,17 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($date_matches, $filename);
   }
 
+  // Find double months (YYYY-MM+MM).
+  preg_match('/\(((\d{4})-(\d{2}\+\d{2}))\)/', $filename, $months_matches);
+  if (isset($months_matches[0])) {
+    $filename_data->date = isset($months_matches[1]) ? $months_matches[1] : NULL;
+    $filename_data->year = isset($months_matches[2]) ? $months_matches[2] : NULL;
+    $filename_data->month = isset($months_matches[3]) ? $months_matches[3] : NULL;
+    $filename = remove_match_from_filename($months_matches, $filename);
+  }
+
   // Find seasonal dates (YYYY-Spring).
-  preg_match('/\(((\d{4})-?(\w+))\)/', $filename, $seasonal_matches);
+  preg_match('/\(((\d{4})-?([\w\+]+))\)/', $filename, $seasonal_matches);
   if (isset($seasonal_matches[0])) {
     $filename_data->date = isset($seasonal_matches[1]) ? $seasonal_matches[1] : NULL;
     $filename_data->year = isset($seasonal_matches[2]) ? $seasonal_matches[2] : NULL;
@@ -132,6 +141,13 @@ function parse_filename(SplFileInfo $file) {
     }
   }
 
+  // Find double issue numbers (##+##).
+  preg_match('/\s+(\d+\+\d+)/', $filename, $double_number_matches);
+  if (isset($double_number_matches[0])) {
+    $filename_data->number = isset($double_number_matches[1]) ? $double_number_matches[1] : NULL;
+    $filename_data->whole_number = isset($double_number_matches[1]) ? $double_number_matches[1] : NULL;
+    $filename = remove_match_from_filename($double_number_matches, $filename);
+  }
 
   // Guess at issue whole numbers.
   preg_match('/\s+(\d+)/', $filename, $whole_number_matches);
