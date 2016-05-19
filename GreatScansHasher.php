@@ -72,6 +72,7 @@ file_put_contents($database_min_path, json_encode($database));
 function parse_filename(SplFileInfo $file) {
   $filename_data = (object) [
     'standard_format' => $file->getBasename(),
+    'ext'             => $file->getExtension(),
     'name'            => NULL,
     'number'          => NULL,
     'whole_number'    => NULL,
@@ -121,6 +122,17 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($release_matches, $filename);
   }
 
+  // Find codes that describe this issue.
+  preg_match_all('/(\[.*?\])/', $filename, $code_matches);
+  if (isset($code_matches[0])) {
+    foreach ($code_matches[1] as $key => $code_match) {
+      $filename_data->codes[] = $code_match;
+      $code_match = preg_quote($code_match);
+      $filename = preg_replace("/\s*${code_match}\s*/", '', $filename);
+    }
+  }
+
+
   // Guess at issue whole numbers.
   preg_match('/\s+(\d+)/', $filename, $whole_number_matches);
   if (isset($whole_number_matches[0])) {
@@ -134,11 +146,10 @@ function parse_filename(SplFileInfo $file) {
     $filename_data->number = $filename_data->number . ' v'. $filename_data->volume . 'n' . $filename_data->issue;
   }
 
-  // @todo Look for codes still.
-
   // What's left is the name.
-  print "Remaining bits in filename: $filename\n";
   $filename_data->name = $filename;
+
+  print_r($filename_data);
 
   return $filename_data;
 }
