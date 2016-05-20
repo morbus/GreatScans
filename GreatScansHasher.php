@@ -66,6 +66,7 @@ foreach (glob($passed_opts['hashdir']) as $passed_dir) {
     // @todo add "reparse" option for existing hashes?
     // @todo only show parse data if new hash.
     // @todo Write up documentation on DB format.
+    // @todo Reduce file size by removing null fields?
   };
 }
 
@@ -149,7 +150,7 @@ function parse_filename(SplFileInfo $file) {
   }
 
   // Find volumes and issues (v#n#).
-  preg_match('/v(\d{1,3})n(\d{1,2})/', $filename, $release_matches);
+  preg_match('/v(\d{1,3})n(\d{1,2}(\+\d{1,2})?)/', $filename, $release_matches);
   if (isset($release_matches[0])) {
     $filename_data->number = isset($release_matches[0]) ? $release_matches[0] : NULL;
     $filename_data->volume = isset($release_matches[1]) ? $release_matches[1] : NULL;
