@@ -66,7 +66,6 @@ foreach (glob($passed_opts['hashdir']) as $passed_dir) {
     // @todo add "reparse" option for existing hashes?
     // @todo only show parse data if new hash.
     // @todo Write up documentation on DB format.
-    // @todo Reduce file size by removing null fields?
   };
 }
 
@@ -76,16 +75,21 @@ uasort($scans, function($a, $b) {
   return strcmp($a->standard_format, $b->standard_format);
 });
 
-// Save our JSON databases.
 $database->scans = (object) $scans;
-file_put_contents($database_path, json_encode($database, JSON_PRETTY_PRINT));
-file_put_contents($database_min_path, json_encode($database));
 
-// Checksums are an easy-to-read file listing.
+// Do some final cleanup on the whole database, such as removing NULL values
+// (which reduced JSON file sizes by 12-15% in early tests). While we're
+// looping through the whole thing, we'll also create a CHECKSUMS file which
+// will double as an easy-to-read file listing of Every Known Scan.
 $checksums_fp = fopen($checksums_path, 'w');
 foreach ($database->scans as $hash => $data) {
+  $database->scans->$hash = (object) array_filter((array) $data);
   fwrite($checksums_fp, $hash . " " . $data->standard_format . "\n");
 }
+
+// Save the JSON databases.
+file_put_contents($database_path, json_encode($database, JSON_PRETTY_PRINT));
+file_put_contents($database_min_path, json_encode($database));
 
 /**
  * Assumes a GreatScans "standard" filename has been passed in.

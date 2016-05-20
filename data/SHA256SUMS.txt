@@ -240,6 +240,28 @@ cc0dc0d37c724aab9907df4eb12f4a98486b3a8e24b4dc48df4fc69934ceceba All-Story v068n
 1c283c11caa9f8fc265f85a09c7e1ed2098fdc0c83b8f6b63fb284e18ce51f49 All-Story v069n01 (1917-03-17) (Google).pdf
 0972dfebc91c29a516bd3f7b0281cfca9d853e32f423237c2f772446fcac65b5 Amazing Stories (UK) v01n20 (1953-06) (Daisy Chainsaw).cbr
 e7b8c493ec0d8bcbcccd479b9591323c6d8926fb108ab9c26380d0d861aa4088 Amazing Stories Annual v01n01 (1927) (David Vaughn).pdf
+bd84f886f3567819eb00dcf98dbecbf7acfee91b0dcfbe6b1dc7e895b90efcb9 Amazing Stories Quarterly v01n01 (1928-Winter) [-ibc, bc].cbr
+8a24d701969960e59fc36281c1ca118e3a9765b63de808a922ebef5488d4da61 Amazing Stories Quarterly v01n02 (1928-Spring) [-ifc, ibc, bc].cbr
+a4d6436bf2e94ab0fa68319bb272b2323720b44e1863a0e33ae58150c3a5fb79 Amazing Stories Quarterly v01n03 (1928-Summer).cbr
+bfbfcb1fb87787b10fa9e1f64b713b40849af8fd3c95c6b1efe0900602f9d7a3 Amazing Stories Quarterly v01n04 (1928-Fall) [-ifc, ibc, bc].cbr
+c364bd8b10971aa04e405b3fd4df626523d2c99871257003d62bb692547039ac Amazing Stories Quarterly v02n01 (1929-Winter).cbr
+16097beb498ba7fbdcfe4dfaf035bab4e43c302ff03e07d23ad6c1763ef33e1f Amazing Stories Quarterly v02n02 (1929-Spring) (slpn).cbr
+09882ed1d3897a257fc8d5f751aeea042454836eebe50c53dd6225a23956023d Amazing Stories Quarterly v02n03 (1929-Summer) (slpn).cbr
+e94c6a84186c5421c5c3b43ac226f4201c6f66703e98f4e09821d81c06d057eb Amazing Stories Quarterly v02n04 (1929-Fall) [-ibc, bc].cbr
+04b0e4bd4255bed2ffe57385ec349589c3560978b5839e85042f7520026349b6 Amazing Stories Quarterly v03n01 (1930-Winter) [-ifc, ibc, bc].cbr
+6f1e464039c07c86b6788f875159a4d1feeb8f0d2c2cd6e1009ed68933d2bc00 Amazing Stories Quarterly v03n02 (1930-Spring) (Gorgon776&Ufikus).cbr
+8372757f0532725f87fe922bf50bde3ad7d70182d786bcf9405e1be253eca9ed Amazing Stories Quarterly v03n03 (1930-Summer) [-ifc].cbr
+b98fe354a8aa0a2c30388367edbd8efa0463a189278e37d762e39dfd05bfa7e1 Amazing Stories Quarterly v03n04 (1930-Fall) (Gorgon776&Ufikus).cbr
+a9bd28511d641cec9b7f6ccaeaa41b59491e10ad7675e3b64f53cde545185637 Amazing Stories Quarterly v04n01 (1931-Winter) [-ifc, ibc, bc].cbr
+064c2cfe61187f720554abeb3eeb55c2f7b4cf1af7749376d48a452108eacf85 Amazing Stories Quarterly v04n02 (1931-Spring) (frankenscan).cbr
+870c9335a4e5b12c517c83e2186fb6677dbe40e03d4d0f8819fbfeab7cbf234f Amazing Stories Quarterly v04n03 (1931-Summer) [-ifc, ibc, bc].cbr
+c08b57777b97cfde72b3125fd42dfce09b4967d0d1da6360af6f8b9e861fc2d2 Amazing Stories Quarterly v04n04 (1931-Fall).cbr
+9251b462781f0f214c010f01efd98b9d500e0b797366c180f1ab96f87f24be05 Amazing Stories Quarterly v05n01 (1932-Winter) (pulpscans-cape1736).cbr
+9aecc53f929f1d77bed2ab443eaf4cd8281b42b137ad555aa0547f4f9ca67c13 Amazing Stories Quarterly v05n02 (1932-Spring+Summer) (cape1736).cbr
+d37bb7c29593cd97cb69aef0afbbdb7fc952bb49acc2197eb2b48aa4c4be82a1 Amazing Stories Quarterly v05n03 (1932-Fall+Winter) [-431, bc].cbr
+3535ab4d33343df5d65c1a3b8479be0a9ba9c240055794fdf18f2cff034dd181 Amazing Stories Quarterly v06n04 (1933-Spring+Summer).cbr
+50842e118dd21f9a296bcc31db347adf2f74ef8ff3d686fecded79f7ba5181a4 Amazing Stories Quarterly v07n01 (1933-Winter) (slpn).cbr
+22f93cfcdeaddc279e4257b1f00f3aa1fbc87ea8896d553cf29907126faf0b63 Amazing Stories Quarterly v07n02 (1934-Fall) (slpn).cbr
 224345ee0f4f760723b964cf5aab09522d9fa5f75dad48edaf70c2426d52ab88 Amazing Stories covers pack.cbz
 236548c65fbc25709dccf95960aa94cdaf2fab3a31252e06543084e641a1207c Amazing Stories covers restored by Saskia.cbr
 2230b834a8e9ca154369686351bb131c2438bd73a9e7eeef22ed67b86c38ff83 Amazing Stories v00n01 (2012-08).pdf
@@ -774,3 +796,6 @@ b2e565e19dc094de7643c1fa96d4f2fd36e5111fc886aaeb802d769e658b7143 American Scienc
 d9cf30bda4ea57dc790a996001a96cded6dd59012b236fd4d499ecc75d832f60 American Science Fiction 35 (1955-03) (BL).cbr
 4bc3504a90dc1a750787e65c605796eabf0cf8d0b19f44555f62f1ea5d88e130 American Science Fiction 36 (1955-04) (BL).cbr
 bc7f8e0cb4794127eaabffa79078120f388dfa9727cb84695808934c7bc5beed American Science Fiction 41 (1955-09).cbr
+86535a440eccc84e4a8846e54f13268e1c3ac8577ee845c6cc3848371e5294f0 American Woodsman v03n11 (1954-06) (DREGS).cbz
+155ca97223bb72c2afbfb4d507b556c7b3782fce8867fa6545ddb749daa855e1 Amra v02n64 (1975-10) (0uro).cbr
+d4ceb8a8688ff0f2c2911c98400edad08b364959375516b85f00fcbd06cb7bab Amra v02n65 (1976-04) (0uro).cbr
