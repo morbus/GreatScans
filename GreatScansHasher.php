@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 
 /**
@@ -21,12 +22,21 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-set_time_limit(0);
+$documentation = <<<HELP
+Usage: $argv[0] --hashdir=/path/to/directory
 
-$allowed_file_extensions = ['cbr', 'cbz', 'pdf', 'rar', 'zip'];
+HELP;
 
+$passed_opts = getopt('h::', ['help::', 'hashdir:']);
+if (empty($passed_opts['hashdir']) || isset($passed_opts['h']) || isset($passed_opts['help'])) {
+  exit($documentation);
+}
+
+$checksums_path = './data/SHA256SUMS.txt';
 $database_path = './data/database.json';
 $database_min_path = './data/database.min.json';
+$file_extensions = ['cbr', 'cbz', 'pdf', 'rar', 'zip'];
+
 $database = json_decode(file_get_contents($database_path));
 
 $database->info = [
@@ -34,20 +44,30 @@ $database->info = [
   'updated' => time(),
 ];
 
-$directory = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1]));
-
-foreach ($directory as $file) {
-  // Skip non-files or those don't match our allowed extensions.
-  if (!$file->isFile() || !in_array($file->getExtension(), $allowed_file_extensions)) {
+// For each directory, find, hash, and metadata files.
+foreach (glob($passed_opts['hashdir']) as $passed_dir) {
+  if (!is_dir($passed_dir)) {
     continue;
   }
 
-  // Generate the hash and parse the name for metadata.
-  $hash = hash('sha256', file_get_contents($file->getPathname()));
-  $existing_data = isset($database->scans->$hash) ? $database->scans->$hash : array();
-  $database->scans->$hash = (object) array_merge((array) $existing_data, (array) parse_filename($file));
-  $database->scans->$hash->hash = $hash;
-};
+  $dir = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($passed_dir));
+
+  foreach ($dir as $file) {
+    if (!$file->isFile() || !in_array($file->getExtension(), $file_extensions)) {
+      continue;
+    }
+
+    // Generate the hash and parse the name for metadata.
+    $hash = hash('sha256', file_get_contents($file->getPathname()));
+    $existing_data = isset($database->scans->$hash) ? $database->scans->$hash : array();
+    $database->scans->$hash = (object) array_merge((array) $existing_data, (array) parse_filename($file));
+    $database->scans->$hash->hash = $hash;
+
+    // @todo add "reparse" option for existing hashes?
+    // @todo only show parse data if new hash.
+    // @todo Write up documentation on DB format.
+  };
+}
 
 // Sort the database. Because!
 $scans = (array) $database->scans;
@@ -55,10 +75,16 @@ uasort($scans, function($a, $b) {
   return strcmp($a->standard_format, $b->standard_format);
 });
 
-// Save prettiness and minified.
+// Save our JSON databases.
 $database->scans = (object) $scans;
 file_put_contents($database_path, json_encode($database, JSON_PRETTY_PRINT));
 file_put_contents($database_min_path, json_encode($database));
+
+// Checksums are an easy-to-read file listing.
+$checksums_fp = fopen($checksums_path, 'w');
+foreach ($database->scans as $hash => $data) {
+  fwrite($checksums_fp, $hash . " " . $data->standard_format . "\n");
+}
 
 /**
  * Assumes a GreatScans "standard" filename has been passed in.
