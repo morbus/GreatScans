@@ -2,7 +2,9 @@
 AK
 AlexH-cape1736
 aMouse
+aMouse-dtsg0318
 amouse-sas
+Anon Malefactor
 ATLPM
 ATLPM-Urf
 bd-sas
@@ -51,6 +53,7 @@ JvH-slpn
 Kenmure
 krissburg
 Lenny Silv3r
+LennyS-aMouse
 LennyS-cape1736
 LennyS-EXciter
 MadMaxAU
@@ -58,11 +61,13 @@ magiccarpetburn
 Magzter
 meetoo7k
 oak
+oak-anon
 pulpscans-cape1736
 Qshadow-cape1736
 sas
 Saskia-Bogof
 Shank-oak
+Sleipnir
 SLiV
 slpn
 Sups McCallister

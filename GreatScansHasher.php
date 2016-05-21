@@ -37,7 +37,7 @@ $database_path = './data/database.json';
 $database_min_path = './data/database.min.json';
 $file_extensions = ['cbr', 'cbz', 'pdf', 'rar', 'zip'];
 
-$database = json_decode(file_get_contents($database_path));
+$database = json_decode(file_get_contents($database_min_path));
 
 $database->info = [
   'schema_version' => 1,
@@ -66,6 +66,7 @@ foreach (glob($passed_opts['hashdir']) as $passed_dir) {
     // @todo add "reparse" option for existing hashes?
     // @todo only show parse data if new hash.
     // @todo Write up documentation on DB format.
+    // @todo Remove duplicate hash in the data array.
   };
 }
 
@@ -125,7 +126,16 @@ function parse_filename(SplFileInfo $file) {
   $filename_data->tag = isset($tag_matches[1]) ? $tag_matches[1] : NULL;
   $filename = remove_match_from_filename($tag_matches, $filename);
 
-  // Find release dates (YYYY-MM-DD).
+  // Find middle months (1999-09-Mid).
+  preg_match('/\(((\d{4})-(\d{2}-Mid))\)/', $filename, $mid_month_matches);
+  if (isset($mid_month_matches[0])) {
+    $filename_data->date = isset($mid_month_matches[1]) ? $mid_month_matches[1] : NULL;
+    $filename_data->year = isset($mid_month_matches[2]) ? $mid_month_matches[2] : NULL;
+    $filename_data->month = isset($mid_month_matches[3]) ? $mid_month_matches[3] : NULL;
+    $filename = remove_match_from_filename($mid_month_matches, $filename);
+  }
+
+  // Find release dates (1999, 1999-09, or 1999-09-09).
   preg_match('/\(((\d{4})-?(\d{2})?-?(\d{2})?)\)/', $filename, $date_matches);
   if (isset($date_matches[0])) {
     $filename_data->date = isset($date_matches[1]) ? $date_matches[1] : NULL;
@@ -135,16 +145,16 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($date_matches, $filename);
   }
 
-  // Find double months (YYYY-MM+MM).
-  preg_match('/\(((\d{4})-(\d{2}\+\d{2}))\)/', $filename, $months_matches);
-  if (isset($months_matches[0])) {
-    $filename_data->date = isset($months_matches[1]) ? $months_matches[1] : NULL;
-    $filename_data->year = isset($months_matches[2]) ? $months_matches[2] : NULL;
-    $filename_data->month = isset($months_matches[3]) ? $months_matches[3] : NULL;
-    $filename = remove_match_from_filename($months_matches, $filename);
+  // Find double months (1999-09+10).
+  preg_match('/\(((\d{4})-(\d{2}\+\d{2}))\)/', $filename, $dbl_month_matches);
+  if (isset($dbl_month_matches[0])) {
+    $filename_data->date = isset($dbl_month_matches[1]) ? $dbl_month_matches[1] : NULL;
+    $filename_data->year = isset($dbl_month_matches[2]) ? $dbl_month_matches[2] : NULL;
+    $filename_data->month = isset($dbl_month_matches[3]) ? $dbl_month_matches[3] : NULL;
+    $filename = remove_match_from_filename($dbl_month_matches, $filename);
   }
 
-  // Find seasonal dates (YYYY-Spring).
+  // Find seasonal dates (1999-Spring).
   preg_match('/\(((\d{4})-?([\w\+]+))\)/', $filename, $seasonal_matches);
   if (isset($seasonal_matches[0])) {
     $filename_data->date = isset($seasonal_matches[1]) ? $seasonal_matches[1] : NULL;
@@ -153,8 +163,8 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($seasonal_matches, $filename);
   }
 
-  // Find volumes and issues (v#n#).
-  preg_match('/v(\d{1,3})n(\d{1,2}(\+\d{1,2})?)/', $filename, $release_matches);
+  // Find volumes and issues (v19n9 or v19n9+10).
+  preg_match('/v(\d{1,3})n(\d{1,3}(\+\d{1,3})?)/', $filename, $release_matches);
   if (isset($release_matches[0])) {
     $filename_data->number = isset($release_matches[0]) ? $release_matches[0] : NULL;
     $filename_data->volume = isset($release_matches[1]) ? $release_matches[1] : NULL;
@@ -162,7 +172,7 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($release_matches, $filename);
   }
 
-  // Find codes that describe this issue.
+  // Find codes that describe this issue ([b], [f], etc.).
   preg_match_all('/(\[.*?\])/', $filename, $code_matches);
   if (isset($code_matches[0])) {
     foreach ($code_matches[1] as $key => $code_match) {
@@ -172,7 +182,7 @@ function parse_filename(SplFileInfo $file) {
     }
   }
 
-  // Find double issue numbers (##+##).
+  // Find double issue numbers (19+20).
   preg_match('/\s+(\d+\+\d+)/', $filename, $double_number_matches);
   if (isset($double_number_matches[0])) {
     $filename_data->number = isset($double_number_matches[1]) ? $double_number_matches[1] : NULL;
@@ -180,7 +190,7 @@ function parse_filename(SplFileInfo $file) {
     $filename = remove_match_from_filename($double_number_matches, $filename);
   }
 
-  // Guess at issue whole numbers.
+  // Guess at issue whole numbers (any remaining numbers left)
   preg_match('/\s+(\d+)/', $filename, $whole_number_matches);
   if (isset($whole_number_matches[0])) {
     $filename_data->number = isset($whole_number_matches[1]) ? $whole_number_matches[1] : NULL;
