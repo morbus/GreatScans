@@ -67,6 +67,8 @@ foreach (glob($passed_opts['hashdir']) as $passed_dir) {
     // @todo only show parse data if new hash.
     // @todo Write up documentation on DB format.
     // @todo Remove duplicate hash in the data array.
+    // @todo Rename this to DB.php instead.
+    // @todo Figure out how to get rid of tags.txt.
   };
 }
 
