@@ -3,9 +3,9 @@
 
 /**
  * @file
- * GreatScansHasher.php
+ * GreatScansDB.php
  *
- * Create and update the database of known scans.
+ * Creates and maintains the databases of known scans.
  * Copyright (C) 2016 Morbus Iff <morbus@disobey.com>
  *
  * This program is free software: you can redistribute it and/or modify
@@ -23,12 +23,12 @@
  */
 
 $documentation = <<<HELP
-Usage: $argv[0] --hashdir=/path/to/directory
+Usage: $argv[0] --srcdir=/path/to/directory
 
 HELP;
 
-$passed_opts = getopt('h::', ['help::', 'hashdir:']);
-if (empty($passed_opts['hashdir']) || isset($passed_opts['h']) || isset($passed_opts['help'])) {
+$passed_opts = getopt('h::', ['help::', 'srcdir:']);
+if (empty($passed_opts['srcdir']) || isset($passed_opts['h']) || isset($passed_opts['help'])) {
   exit($documentation);
 }
 
@@ -45,7 +45,7 @@ $database->info = [
 ];
 
 // For each directory, find, hash, and metadata files.
-foreach (glob($passed_opts['hashdir']) as $passed_dir) {
+foreach (glob($passed_opts['srcdir']) as $passed_dir) {
   if (!is_dir($passed_dir)) {
     continue;
   }
@@ -67,8 +67,9 @@ foreach (glob($passed_opts['hashdir']) as $passed_dir) {
     // @todo only show parse data if new hash.
     // @todo Write up documentation on DB format.
     // @todo Remove duplicate hash in the data array.
-    // @todo Rename this to DB.php instead.
-    // @todo Figure out how to get rid of tags.txt.
+    // @todo For searching, let's switch to sqlite.
+    // @todo spit list of titles to ease parse error discovery.
+    // @todo Show entries with a missing month?
   };
 }
 
@@ -123,11 +124,6 @@ function parse_filename(SplFileInfo $file) {
   // Remove the file extension.
   $filename = str_replace('.' . $file->getExtension(), '', $file->getBasename());
 
-  // Find known tags.
-  preg_match('/' . tags_regex() . '/', $filename, $tag_matches);
-  $filename_data->tag = isset($tag_matches[1]) ? $tag_matches[1] : NULL;
-  $filename = remove_match_from_filename($tag_matches, $filename);
-
   // Find middle months (1999-09-Mid).
   preg_match('/\(((\d{4})-(\d{2}-Mid))\)/', $filename, $mid_month_matches);
   if (isset($mid_month_matches[0])) {
@@ -179,8 +175,7 @@ function parse_filename(SplFileInfo $file) {
   if (isset($code_matches[0])) {
     foreach ($code_matches[1] as $key => $code_match) {
       $filename_data->codes[] = $code_match;
-      $code_match = preg_quote($code_match);
-      $filename = preg_replace("/\s*${code_match}\s*/", '', $filename);
+      $filename = remove_match_from_filename(array($code_match), $filename);
     }
   }
 
@@ -205,7 +200,14 @@ function parse_filename(SplFileInfo $file) {
     $filename_data->number = $filename_data->number . ' v'. $filename_data->volume . 'n' . $filename_data->issue;
   }
 
-  // What's left is the name.
+  // Anything else in parenthesis is a scanner tag.
+  preg_match('/\s*\((.*)\)/', $filename, $tag_matches);
+  if (isset($tag_matches[0])) {
+    $filename_data->tag = isset($tag_matches[1]) ? $tag_matches[1] : NULL;
+    $filename = remove_match_from_filename($tag_matches, $filename);
+  }
+
+  // And what's left is the title.
   $filename_data->name = $filename;
 
   print_r($filename_data);
@@ -232,18 +234,3 @@ function remove_match_from_filename(array $matches, $filename) {
 
   return $filename;
 }
-
-/**
- * Returns a regex-ready list of tags for finding in a filename.
- */
-function tags_regex() {
-  $tags = explode("\n", file_get_contents('./data/tags.txt'));
-
-  $tags = array_map(function($value) {
-    return preg_quote($value, '/');
-  }, $tags);
-
-  $tags = implode('|', $tags);
-  return "\((${tags})\)";
-}
-
