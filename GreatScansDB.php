@@ -58,7 +58,8 @@ foreach (glob($passed_opts['srcdir']) as $passed_dir) {
     }
 
     // Generate the hash and parse the name for metadata.
-    $hash = hash('sha256', file_get_contents($file->getPathname()));
+    $hash = hash_file('sha256', $file->getPathname());
+
     $existing_data = isset($database->scans->$hash) ? $database->scans->$hash : array();
     $database->scans->$hash = (object) array_merge((array) $existing_data, (array) parse_filename($file));
     $database->scans->$hash->hash = $hash;
@@ -70,6 +71,7 @@ foreach (glob($passed_opts['srcdir']) as $passed_dir) {
     // @todo For searching, let's switch to sqlite.
     // @todo spit list of titles to ease parse error discovery.
     // @todo Show entries with a missing month?
+    // @todo Consider adding country tags to every thing.
   };
 }
 
@@ -200,11 +202,17 @@ function parse_filename(SplFileInfo $file) {
     $filename_data->number = $filename_data->number . ' v'. $filename_data->volume . 'n' . $filename_data->issue;
   }
 
-  // Anything else in parenthesis is a scanner tag.
-  preg_match('/\s*\((.*)\)/', $filename, $tag_matches);
+  // Anything else in parenthesis is a scanner tag...
+  preg_match('/\((.[^\(]*)\)$/', $filename, $tag_matches);
   if (isset($tag_matches[0])) {
     $filename_data->tag = isset($tag_matches[1]) ? $tag_matches[1] : NULL;
     $filename = remove_match_from_filename($tag_matches, $filename);
+  }
+
+  // ...Unless it's a known country clarifier. /me sighs.
+  if (in_array($filename_data->tag, array('AU', 'UK'))) {
+    $filename .= ' (' . $filename_data->tag . ')';
+    $filename_data->tag = NULL;
   }
 
   // And what's left is the title.

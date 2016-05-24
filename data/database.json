@@ -1,7 +1,7 @@
 {
     "info": {
         "schema_version": 1,
-        "updated": 1464052632
+        "updated": 1464092983
     },
     "scans": {
         "90e864ad1362b58a0ac2dee5f1f4762065f5a2d3bdd571e58ec70c8779745623": {
@@ -47,7 +47,7 @@
             "hash": "3a78bfe1c6fcc2abe477f98b708046322208514d1a8bc1a10465cd115d3662f3"
         },
         "10c16554467c38dc2ba1ae5038839c768207d614c93c4e0c6baf7a9c76313717": {
-            "standard_format": "10 Story Fantasy v01n01 (1951-Spring) [cover+fixes].cbr",
+            "standard_format": "10 Story Fantasy v01n01 (1951-Spring) [cover and fixes only].cbr",
             "ext": "cbr",
             "name": "10 Story Fantasy",
             "number": "v01n01",
@@ -57,7 +57,7 @@
             "year": "1951",
             "month": "Spring",
             "codes": [
-                "[cover+fixes]"
+                "[cover and fixes only]"
             ],
             "hash": "10c16554467c38dc2ba1ae5038839c768207d614c93c4e0c6baf7a9c76313717"
         },
@@ -1462,9 +1462,9 @@
             "hash": "6f16632b45cc76f0ae27c5f8f956257d16b93288a2940e7080e5e0fb0b8a66ce"
         },
         "41c722d975e6d6663b008fd6b206d6e734973be9d208e0ddd6ed2382e191b4f4": {
-            "standard_format": "Adam (Australia) v14n04 (1952-03).cbr",
+            "standard_format": "Adam (AU) v14n04 (1952-03).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v14n04",
             "volume": "14",
             "issue": "04",
@@ -1474,9 +1474,9 @@
             "hash": "41c722d975e6d6663b008fd6b206d6e734973be9d208e0ddd6ed2382e191b4f4"
         },
         "27599c8d7a66c1c1a0212d1ca2ba4b830666d2332d8b61a0c517895cbddda201": {
-            "standard_format": "Adam (Australia) v18n05 (1955-04) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v18n05 (1955-04) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v18n05",
             "volume": "18",
             "issue": "05",
@@ -1487,9 +1487,9 @@
             "hash": "27599c8d7a66c1c1a0212d1ca2ba4b830666d2332d8b61a0c517895cbddda201"
         },
         "7cba7843125954e5b95bdf4403243ae0b7cccb7187b8823f563e056649226bbd": {
-            "standard_format": "Adam (Australia) v24n01 (1957-12) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v24n01 (1957-12) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v24n01",
             "volume": "24",
             "issue": "01",
@@ -1500,9 +1500,9 @@
             "hash": "7cba7843125954e5b95bdf4403243ae0b7cccb7187b8823f563e056649226bbd"
         },
         "e419d2e38a148cd75e5a229e99ae128570c911e4fb3c55c23ce9349a745e4f34": {
-            "standard_format": "Adam (Australia) v31n01 (1961-06) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v31n01 (1961-06) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v31n01",
             "volume": "31",
             "issue": "01",
@@ -1513,9 +1513,9 @@
             "hash": "e419d2e38a148cd75e5a229e99ae128570c911e4fb3c55c23ce9349a745e4f34"
         },
         "1f8164290c53e9d2350ad409bfb81ac5278a33a5ef1711b43c1234cfa961ffd8": {
-            "standard_format": "Adam (Australia) v34n06 (1963-05) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v34n06 (1963-05) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v34n06",
             "volume": "34",
             "issue": "06",
@@ -1526,9 +1526,9 @@
             "hash": "1f8164290c53e9d2350ad409bfb81ac5278a33a5ef1711b43c1234cfa961ffd8"
         },
         "dbb4006ff92e2be221dab0c5e2ce07f92b97da259cb83e78514d2c182c4cad3f": {
-            "standard_format": "Adam (Australia) v35n02 (1963-07) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v35n02 (1963-07) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v35n02",
             "volume": "35",
             "issue": "02",
@@ -1539,9 +1539,9 @@
             "hash": "dbb4006ff92e2be221dab0c5e2ce07f92b97da259cb83e78514d2c182c4cad3f"
         },
         "6e6a8f0c7b296d03505b4692e18c2ea357189a0a1d3eee59508607985cf7235f": {
-            "standard_format": "Adam (Australia) v35n05 (1963-10) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v35n05 (1963-10) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v35n05",
             "volume": "35",
             "issue": "05",
@@ -1552,9 +1552,9 @@
             "hash": "6e6a8f0c7b296d03505b4692e18c2ea357189a0a1d3eee59508607985cf7235f"
         },
         "1ae6d38595956a0e42a3301e06a4d043d1c5a0bdfa8c4eb84510d48a201cd27a": {
-            "standard_format": "Adam (Australia) v36n01 (1963-12).cbr",
+            "standard_format": "Adam (AU) v36n01 (1963-12).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v36n01",
             "volume": "36",
             "issue": "01",
@@ -1564,9 +1564,9 @@
             "hash": "1ae6d38595956a0e42a3301e06a4d043d1c5a0bdfa8c4eb84510d48a201cd27a"
         },
         "e2f67950df2778e5a6247a5a542181a3e82a96a400cdbf64d65c8d104e067f11": {
-            "standard_format": "Adam (Australia) v54n04 (1973-03) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v54n04 (1973-03) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v54n04",
             "volume": "54",
             "issue": "04",
@@ -1577,9 +1577,9 @@
             "hash": "e2f67950df2778e5a6247a5a542181a3e82a96a400cdbf64d65c8d104e067f11"
         },
         "4b08871c1f832882ce0bf84879844a2f352cb5bfa54aa4ef7ed13f20251b803f": {
-            "standard_format": "Adam (Australia) v54n06 (1973-05) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v54n06 (1973-05) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v54n06",
             "volume": "54",
             "issue": "06",
@@ -1590,9 +1590,9 @@
             "hash": "4b08871c1f832882ce0bf84879844a2f352cb5bfa54aa4ef7ed13f20251b803f"
         },
         "23e036873fdefbc5fd15af811d9938b8f4d70bf6e1c2f56f6430f963f268899d": {
-            "standard_format": "Adam (Australia) v55n02 (1973-07) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v55n02 (1973-07) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v55n02",
             "volume": "55",
             "issue": "02",
@@ -1603,9 +1603,9 @@
             "hash": "23e036873fdefbc5fd15af811d9938b8f4d70bf6e1c2f56f6430f963f268899d"
         },
         "546280dac8dc58b0b9272314ca9d06cec35be3faf8be372a5281fce148de1d87": {
-            "standard_format": "Adam (Australia) v55n03 (1973-08) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v55n03 (1973-08) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v55n03",
             "volume": "55",
             "issue": "03",
@@ -1616,9 +1616,9 @@
             "hash": "546280dac8dc58b0b9272314ca9d06cec35be3faf8be372a5281fce148de1d87"
         },
         "ad8a217f931d4655957a50e0f3856bbc2cf85bcb4534535a333746b3d7e1086b": {
-            "standard_format": "Adam (Australia) v56n02 (1974-01) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v56n02 (1974-01) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v56n02",
             "volume": "56",
             "issue": "02",
@@ -1629,9 +1629,9 @@
             "hash": "ad8a217f931d4655957a50e0f3856bbc2cf85bcb4534535a333746b3d7e1086b"
         },
         "47a2203996ebc4abd4af14142327e3a3a2515d419cda12fd90678e9691828d3d": {
-            "standard_format": "Adam (Australia) v61n02 (1976-07).cbr",
+            "standard_format": "Adam (AU) v61n02 (1976-07).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v61n02",
             "volume": "61",
             "issue": "02",
@@ -1641,9 +1641,9 @@
             "hash": "47a2203996ebc4abd4af14142327e3a3a2515d419cda12fd90678e9691828d3d"
         },
         "13757ad1f2f33aa88eb0026f53cc90e8a5f3cf9723892c83dc9b0c7821b9bcc9": {
-            "standard_format": "Adam (Australia) v61n05 (1976-10) (Kenmure).cbr",
+            "standard_format": "Adam (AU) v61n05 (1976-10) (Kenmure).cbr",
             "ext": "cbr",
-            "name": "Adam (Australia)",
+            "name": "Adam (AU)",
             "number": "v61n05",
             "volume": "61",
             "issue": "05",
@@ -2482,7 +2482,7 @@
         "d88ee42357382f66c186ccaa90582622acc912f78f485839c8de0d88ab4cec7f": {
             "standard_format": "Air Wonder Stories v01n07 (1930-01) (bogof39-slpn) [-ibc, bc].cbr",
             "ext": "cbr",
-            "name": "Air Wonder Stories(bogof39-slpn)",
+            "name": "Air Wonder Stories",
             "number": "v01n07",
             "volume": "01",
             "issue": "07",
@@ -2492,19 +2492,21 @@
             "codes": [
                 "[-ibc, bc]"
             ],
-            "hash": "d88ee42357382f66c186ccaa90582622acc912f78f485839c8de0d88ab4cec7f"
+            "hash": "d88ee42357382f66c186ccaa90582622acc912f78f485839c8de0d88ab4cec7f",
+            "tag": "bogof39-slpn"
         },
         "d5a12a66b2b1119276d0a2118cc5559b231db2d0000b7ec8e5c496d3f72ff3c7": {
             "standard_format": "Air Wonder Stories v01n08 (1930-02) (bogof39-slpn).cbr",
             "ext": "cbr",
-            "name": "Air Wonder Stories(bogof39-slpn)",
+            "name": "Air Wonder Stories",
             "number": "v01n08",
             "volume": "01",
             "issue": "08",
             "date": "1930-02",
             "year": "1930",
             "month": "02",
-            "hash": "d5a12a66b2b1119276d0a2118cc5559b231db2d0000b7ec8e5c496d3f72ff3c7"
+            "hash": "d5a12a66b2b1119276d0a2118cc5559b231db2d0000b7ec8e5c496d3f72ff3c7",
+            "tag": "bogof39-slpn"
         },
         "528975ab85b9022d9fd26cfd29aa64a3d89707319312331cb9054f52050d7f2d": {
             "standard_format": "Air Wonder Stories v01n09 (1930-03).cbr",
@@ -3099,6 +3101,24 @@
             "month": "Spring",
             "tag": "MadMaxAU",
             "hash": "1ffe92337687ca06f35904f7fde73fda0f508c411c2e1b68e3c854ab44d3a1ff"
+        },
+        "a607ca8e99fb8057e4409965cdbb35a6bb36a4d31f23a2629c4e9e32c6110a8d": {
+            "standard_format": "Alien Magazine (1979) (Carbunkle-DREGS).cbr",
+            "ext": "cbr",
+            "name": "Alien Magazine",
+            "date": "1979",
+            "year": "1979",
+            "tag": "Carbunkle-DREGS",
+            "hash": "a607ca8e99fb8057e4409965cdbb35a6bb36a4d31f23a2629c4e9e32c6110a8d"
+        },
+        "3650d19f287c03505c89d0267d9127cdb90a1a9a3a80c78a93d108fd54c58d07": {
+            "standard_format": "Aliens Official Movie Magazine (1986) (jodyanimator).cbz",
+            "ext": "cbz",
+            "name": "Aliens Official Movie Magazine",
+            "date": "1986",
+            "year": "1986",
+            "tag": "jodyanimator",
+            "hash": "3650d19f287c03505c89d0267d9127cdb90a1a9a3a80c78a93d108fd54c58d07"
         },
         "63c1d66b11013fefdf76de24cca1ada8e953aa5a5fd61358249aa80bcebdb2ec": {
             "standard_format": "All Western Magazine v01n01 (1950-04-06) (Wilddog-DPP).cbr",
@@ -9126,14 +9146,15 @@
         "b01011989ab62d6b2f7e4a6fa5b708065f460c16d9ccc803572e3580d1df9787": {
             "standard_format": "Amazing Stories v48n05 (1975-03) (SliV).cbr",
             "ext": "cbr",
-            "name": "Amazing Stories(SliV)",
+            "name": "Amazing Stories",
             "number": "v48n05",
             "volume": "48",
             "issue": "05",
             "date": "1975-03",
             "year": "1975",
             "month": "03",
-            "hash": "b01011989ab62d6b2f7e4a6fa5b708065f460c16d9ccc803572e3580d1df9787"
+            "hash": "b01011989ab62d6b2f7e4a6fa5b708065f460c16d9ccc803572e3580d1df9787",
+            "tag": "SliV"
         },
         "7e2c19a302f997876fbc8a6d36ae99c11970918baa27bcf45dd58379f5096107": {
             "standard_format": "Amazing Stories v48n06 (1975-05) (Lenny Silv3r).cbz",
@@ -20566,14 +20587,15 @@
         "d89a6679b3f4d294aba51a7d09d209f9a9395e2e6f3d6f4e849835b7a19bbfab": {
             "standard_format": "Astounding v21n04 (1938-06) (Firebelly).cbr",
             "ext": "cbr",
-            "name": "Astounding(Firebelly)",
+            "name": "Astounding",
             "number": "v21n04",
             "volume": "21",
             "issue": "04",
             "date": "1938-06",
             "year": "1938",
             "month": "06",
-            "hash": "d89a6679b3f4d294aba51a7d09d209f9a9395e2e6f3d6f4e849835b7a19bbfab"
+            "hash": "d89a6679b3f4d294aba51a7d09d209f9a9395e2e6f3d6f4e849835b7a19bbfab",
+            "tag": "Firebelly"
         },
         "e01f32678dce5ae9e267c3c130e8cf61c30bb6918c67dc15c4a2c7471769ff76": {
             "standard_format": "Astounding v21n05 (1938-07).cbr",
@@ -20967,14 +20989,15 @@
         "6a9e14da4a5ebadd5ad86a35c8c32ca5be74de209e47b6aecaa4549edafbf930": {
             "standard_format": "Astounding v26n05 (1941-01) (dtsg0318-sas).cbr",
             "ext": "cbr",
-            "name": "Astounding(dtsg0318-sas)",
+            "name": "Astounding",
             "number": "v26n05",
             "volume": "26",
             "issue": "05",
             "date": "1941-01",
             "year": "1941",
             "month": "01",
-            "hash": "6a9e14da4a5ebadd5ad86a35c8c32ca5be74de209e47b6aecaa4549edafbf930"
+            "hash": "6a9e14da4a5ebadd5ad86a35c8c32ca5be74de209e47b6aecaa4549edafbf930",
+            "tag": "dtsg0318-sas"
         },
         "42573f71b55435e8928ea6a758920979a58c26851821665572e01329bda8525e": {
             "standard_format": "Astounding v26n06 (1941-02) (dtsg0318-LennyS).cbr",
@@ -21422,14 +21445,15 @@
         "0f97cac900e0f9712ff0b63eebda80191b8172b137fde9dd3ea32f15e7dca16a": {
             "standard_format": "Astounding v32n01 (1943-09) (Firebelly).cbr",
             "ext": "cbr",
-            "name": "Astounding(Firebelly)",
+            "name": "Astounding",
             "number": "v32n01",
             "volume": "32",
             "issue": "01",
             "date": "1943-09",
             "year": "1943",
             "month": "09",
-            "hash": "0f97cac900e0f9712ff0b63eebda80191b8172b137fde9dd3ea32f15e7dca16a"
+            "hash": "0f97cac900e0f9712ff0b63eebda80191b8172b137fde9dd3ea32f15e7dca16a",
+            "tag": "Firebelly"
         },
         "0cec85da2a4a1c5f92fa5c29609404001730d1173e63f43f0123c823b3e77bdb": {
             "standard_format": "Astounding v32n02 (1943-10) (cape1736).cbr",
@@ -24309,6 +24333,14 @@
             "tag": "UnkSc-cape1736",
             "hash": "dbf068bc317bdbaad37c0c4b4ab0fd13fca31388208930c8eeeed8935c2313cc"
         },
+        "8c70aad06f2ccee8976b817445eccfb227f50ebe60f28c6bf5f4270d462ec0a4": {
+            "standard_format": "Baad Mutha@!#ers v1 (1996).cbr",
+            "ext": "cbr",
+            "name": "Baad Mutha@!#ers v1",
+            "date": "1996",
+            "year": "1996",
+            "hash": "8c70aad06f2ccee8976b817445eccfb227f50ebe60f28c6bf5f4270d462ec0a4"
+        },
         "592f7a5f7b20f4b329b717833b8a48f7154caabaa787ff902f6f14337d193f08": {
             "standard_format": "Banned In Britain 02 (2004) (Crapscans).cbr",
             "ext": "cbr",
@@ -24613,14 +24645,13 @@
         "638b5457f45d5a4bc618dd1f4478f7406182a42d87f3787013a2372e573fcb3c": {
             "standard_format": "Castle of Frankenstein 18 v05n02 (1972) (ChersUsedRazor-DREGS) c2c.cbr",
             "ext": "cbr",
-            "name": "Castle of Frankensteinc2c",
+            "name": "Castle of Frankenstein(ChersUsedRazor-DREGS) c2c",
             "number": "18 v05n02",
             "whole_number": "18",
             "volume": "05",
             "issue": "02",
             "date": "1972",
             "year": "1972",
-            "tag": "ChersUsedRazor-DREGS",
             "hash": "638b5457f45d5a4bc618dd1f4478f7406182a42d87f3787013a2372e573fcb3c"
         },
         "977ec98964c7bedc49f154089f89583e052e0258627c378eed8ab1f7dcfdefcf": {
@@ -27554,7 +27585,7 @@
             "hash": "df8fb4db5d8454dbf92398eefe17967c0389c93da8fb62c6b422648144ec98be"
         },
         "4588afdaa4a3b2aae9a3980a8a0cc86229d8eaf8d5a36cd968a64a7f9b17e417": {
-            "standard_format": "Future Fantasy 01 (1978-02) (sprout-DREGS).cbr",
+            "standard_format": "Future Fantasy 01 (1978-02) (sprout-DREGS) [incomplete].cbr",
             "ext": "cbr",
             "name": "Future Fantasy",
             "number": "01",
@@ -27563,7 +27594,10 @@
             "year": "1978",
             "month": "02",
             "tag": "sprout-DREGS",
-            "hash": "4588afdaa4a3b2aae9a3980a8a0cc86229d8eaf8d5a36cd968a64a7f9b17e417"
+            "hash": "4588afdaa4a3b2aae9a3980a8a0cc86229d8eaf8d5a36cd968a64a7f9b17e417",
+            "codes": [
+                "[incomplete]"
+            ]
         },
         "1d6b61ee8cab16b42ef531dc3a8fadfc3f6302363fd38618649690c15b6b4a02": {
             "standard_format": "G-Fan 009 (1994) (YZ1).cbr",
