@@ -21,19 +21,4 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-set_time_limit(0);
-
-$cmd_line_opts = [
-  'short' => 'h::',
-  'long' => [
-    'help::',
-  ],
-];
-
-$passed_opts = getopt($cmd_line_opts['short'], $cmd_line_opts['long']);
-
-if (isset($passed_opts['h']) || isset($passed_opts['help'])) {
-  print "@todo\n";
-}
-
 // @todo You should. You know. Maybe write this.

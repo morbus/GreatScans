@@ -77,7 +77,7 @@ foreach (glob($passed_opts['srcdir']) as $passed_dir) {
 
 // Sort the database. Because!
 $scans = (array) $database->scans;
-uasort($scans, function($a, $b) {
+uasort($scans, function ($a, $b) {
   return strcmp($a->standard_format, $b->standard_format);
 });
 
@@ -175,18 +175,18 @@ function parse_filename(SplFileInfo $file) {
   // Find codes that describe this issue ([b], [f], etc.).
   preg_match_all('/(\[.*?\])/', $filename, $code_matches);
   if (isset($code_matches[0])) {
-    foreach ($code_matches[1] as $key => $code_match) {
+    foreach ($code_matches[1] as $code_match) {
       $filename_data->codes[] = $code_match;
       $filename = remove_match_from_filename(array($code_match), $filename);
     }
   }
 
   // Find double issue numbers (19+20).
-  preg_match('/\s+(\d+\+\d+)/', $filename, $double_number_matches);
-  if (isset($double_number_matches[0])) {
-    $filename_data->number = isset($double_number_matches[1]) ? $double_number_matches[1] : NULL;
-    $filename_data->whole_number = isset($double_number_matches[1]) ? $double_number_matches[1] : NULL;
-    $filename = remove_match_from_filename($double_number_matches, $filename);
+  preg_match('/\s+(\d+\+\d+)/', $filename, $dbl_number_matches);
+  if (isset($dbl_number_matches[0])) {
+    $filename_data->number = isset($dbl_number_matches[1]) ? $dbl_number_matches[1] : NULL;
+    $filename_data->whole_number = isset($dbl_number_matches[1]) ? $dbl_number_matches[1] : NULL;
+    $filename = remove_match_from_filename($dbl_number_matches, $filename);
   }
 
   // Guess at issue whole numbers (any remaining numbers left)
@@ -199,7 +199,7 @@ function parse_filename(SplFileInfo $file) {
 
   // If all three numbers exist, merge 'em together for number.
   if (isset($filename_data->volume) && isset($filename_data->issue) && isset($filename_data->whole_number)) {
-    $filename_data->number = $filename_data->number . ' v'. $filename_data->volume . 'n' . $filename_data->issue;
+    $filename_data->number = $filename_data->number . ' v' . $filename_data->volume . 'n' . $filename_data->issue;
   }
 
   // Anything else in parenthesis is a scanner tag...
