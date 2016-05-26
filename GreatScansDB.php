@@ -115,6 +115,10 @@ foreach ($files as $file) {
   fwrite($sha256sums_fp, $file['sha256'] . " " . $file['standard_format'] . "\n");
   fwrite($size12sums_fp, str_pad($file['size'], 12, 0, STR_PAD_LEFT) . " " . $file['standard_format'] . "\n");
   $json['files'][$file['sha256']] = array_filter($file);
+
+  if (!empty($file['codes'])) {
+    $json['files'][$file['sha256']]['codes'] = unserialize($file['codes']);
+  }
 }
 
 file_put_contents('./data/database.json', json_encode($json, JSON_PRETTY_PRINT));
