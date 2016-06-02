@@ -240,7 +240,7 @@ function parse_filename(SplFileInfo $file) {
   }
 
   // ...Unless it's a known country abbreviation.
-  if (in_array($filename_data['tag'], ['AU', 'UK'])) {
+  if (in_array($filename_data['tag'], ['AU', 'UK', 'US'])) {
     $filename .= ' (' . $filename_data['tag'] . ')';
     $filename_data['tag'] = NULL;
   }

@@ -11,7 +11,6 @@
 000098223305 12 Sports Aces v06n01 (1942-03) (JT) [-63, 64] [~65, 66].cbr
 000012428211 2 Daring Love Novels v01n01 (1948-01).cbr
 000111082188 2 Western Books v02n04 (1953-Spring) (ATLPM-Urf).cbr
-000069078551 2-Gun Western v02n05 (1955-11) (Gambit-Darwin).cbr
 000025467402 21 v01n04 (1956) (DOM).cbz
 000028625497 2AM 03 v01n03 (1987-Spring).cbr
 000026877267 2AM 05 v02n01 (1987-Fall).cbr
@@ -98,36 +97,72 @@
 000024872885 Ace v07n02 (1963-09).cbr
 000055161456 Ace v07n03 (1963-11).cbz
 000048890772 Ace v07n04 (1964-01).cbr
+000059106412 Ace v07n05 (1964-03) [-ifc, 2, 3, 4].cbr
+000070342878 Ace v07n06 (1964-05).cbr
+000053047418 Ace v08n02 (1964-09).cbz
 000071269654 Ace-High Western Stories v22n01 (1949-09) (EXciter).cbr
 000090884269 Action Stories v15n01 (1938-10) [-ifc, ibc, bc].cbr
 000099912922 Action Stories v16n01 (1940-12).cbz
 000097982596 Action Stories v16n03 (1941-04) [-ifc].cbr
 000093445756 Action Stories v16n04 (1941-06) [-ifc, ibc, bc].cbz
 000143490563 Action Stories v18n04 (1946-Summer) (Daisy Chainsaw).cbr
+000046011252 Action for Men v09n01 (1965-03) [-ifc, 1, 2].cbz
 000053476658 Action v01n05 (1953-10) (Darwination-Dregs).cbz
 000048787994 Action-Packed Western v04n04 (1958-05) (oak).cbz
 000039336384 Adam (AU) v14n04 (1952-03).cbr
-000050552904 Adam (AU) v18n05 (1955-04) (Kenmure).cbr
-000033818381 Adam (AU) v24n01 (1957-12) (Kenmure).cbr
-000035395890 Adam (AU) v31n01 (1961-06) (Kenmure).cbr
-000033682027 Adam (AU) v34n06 (1963-05) (Kenmure).cbr
-000034283959 Adam (AU) v35n02 (1963-07) (Kenmure).cbr
-000033289259 Adam (AU) v35n05 (1963-10) (Kenmure).cbr
+000050552904 Adam (AU) v18n05 (1955-04).cbr
+000047833000 Adam (AU) v19n03 (1955-08).cbr
+000033818381 Adam (AU) v24n01 (1957-12).cbr
+000035395890 Adam (AU) v31n01 (1961-06).cbr
+000033682027 Adam (AU) v34n06 (1963-05).cbr
+000034283959 Adam (AU) v35n02 (1963-07).cbr
+000034405614 Adam (AU) v35n04 (1963-09).cbr
+000033289259 Adam (AU) v35n05 (1963-10).cbr
 000035052292 Adam (AU) v36n01 (1963-12).cbr
-000039799131 Adam (AU) v54n04 (1973-03) (Kenmure).cbr
-000040891757 Adam (AU) v54n06 (1973-05) (Kenmure).cbr
-000040310505 Adam (AU) v55n02 (1973-07) (Kenmure).cbr
-000040052027 Adam (AU) v55n03 (1973-08) (Kenmure).cbr
-000039361432 Adam (AU) v56n02 (1974-01) (Kenmure).cbr
+000039799131 Adam (AU) v54n04 (1973-03).cbr
+000040891757 Adam (AU) v54n06 (1973-05).cbr
+000040310505 Adam (AU) v55n02 (1973-07).cbr
+000040052027 Adam (AU) v55n03 (1973-08).cbr
+000040233213 Adam (AU) v55n05 (1973-10).cbr
+000039361432 Adam (AU) v56n02 (1974-01).cbr
 000041495601 Adam (AU) v61n02 (1976-07).cbr
-000039988344 Adam (AU) v61n05 (1976-10) (Kenmure).cbr
+000039988344 Adam (AU) v61n05 (1976-10).cbr
+000159305941 Adam Annual (1960).cbr
 000176703383 Adam v01n01 (1956-11).cbr
+000147223992 Adam v01n03 (1957-01).cbr
 000003091592 Adam v02n06 (1958-06) (magiccarpetburn) [incomplete].cbr
 000040299233 Adam v02n10 (1958-10).cbz
+000039533711 Adam v03n05 (1959-05).cbz
+000045853904 Adam v03n06 (1959-06) [-37, 38, 39, 40].pdf
 000030367261 Adam v03n11 (1959-11).cbr
+000152619144 Adam v03n12 (1959-12).cbr
 000031036895 Adam v04n04 (1960-04).cbr
+000027856755 Adam v05n02 (1961-02).cbr
+000151340967 Adam v07n09 (1963-09).cbr
 000008379584 Adam v09n11 (1965-11) (Sups McCallister) [incomplete].cbr
+000046074513 Adam v10n08 (1966-08).cbz
+000032800946 Adam v10n10 (1966-10).cbr
+000327584322 Adam v11n07 (1967-07).cbr
 000041178014 Adam v12n05 (1968-05).cbr
+000010688109 Adventure (UK) 0001 (1921-09-17).cbz
+000018916675 Adventure (UK) 0002 (1921-09-24).cbz
+000016664549 Adventure (UK) 0003 (1921-10-01).cbz
+000016866247 Adventure (UK) 0004 (1921-10-08).cbz
+000016569753 Adventure (UK) 0005 (1921-10-15).cbz
+000016226197 Adventure (UK) 0006 (1921-10-22).cbz
+000016695015 Adventure (UK) 0007 (1921-10-29).cbz
+000017168955 Adventure (UK) 0008 (1921-11-05).cbz
+000016933036 Adventure (UK) 0009 (1921-11-12).cbz
+000015463293 Adventure (UK) 0010 (1921-11-19).cbz
+000017999729 Adventure (UK) 0011 (1921-11-26).cbz
+000017157528 Adventure (UK) 0012 (1921-12-03).cbz
+000017427057 Adventure (UK) 0013 (1921-12-10).cbz
+000016635071 Adventure (UK) 0014 (1921-12-17).cbz
+000017426104 Adventure (UK) 0015 (1921-12-24).cbz
+000017486750 Adventure (UK) 0016 (1921-12-31).cbz
+000014780075 Adventure (UK) 0017 (1922-01-07).cbz
+000014600843 Adventure (UK) 0018 (1922-01-14).cbz
+000022008332 Adventure (UK) 0019 (1922-01-21).cbz
 000182139338 Adventure v001n04 (1911-02) (sas).cbr
 000172304802 Adventure v002n02 (1911-06) (sas).cbr
 000057369615 Adventure v010n06 (1915-10).cbr
@@ -141,39 +176,76 @@
 000158269891 Adventure v021n01 (1919-04-03) (jvh-aMouse) [-ibc, bc].cbr
 000151915039 Adventure v022n03 (1919-08-03) (jvh-aMouse).cbr
 000208116079 Adventure v023n05 (1919-12-03) (sas).cbr
-000147990045 Adventure v026n03 (1920-08-03) (jvh-aMouse) [-ibc,bc].rar
+000175897819 Adventure v024n02 (1920-01-18) (JT) [-ifc, ibc, bc].cbr
+000147990045 Adventure v026n03 (1920-08-03) (jvh-aMouse) [-ibc,bc].cbr
 000193625439 Adventure v028n01 (1921-01-03) (jvh-sas).cbr
-000175639283 Adventure v029n04 (1921-05-18) (jvh-aMouse) [-39, 40, 41, 42].rar
+000175639283 Adventure v029n04 (1921-05-18) (jvh-aMouse) [-39, 40, 41, 42].cbr
+000129808979 Adventure v030n01 (1921-07-03) (AK).cbr
 000198666312 Adventure v030n04 (1921-08-18) (Google).cbr
 000203886703 Adventure v030n05 (1921-09-03) (Google).cbr
+000209441868 Adventure v030n06 (1921-09-18) (Google).cbr
 000187549037 Adventure v033n03 (1922-02-28) (sas).cbr
 000169436414 Adventure v034n01 (1922-04-10) (sas).cbr
 000182370597 Adventure v036n03 (1922-08-30) (jvh-aMouse).cbr
 000155472690 Adventure v036n04 (1922-09-10) (jvh-aMouse).cbr
+000166560359 Adventure v038n05 (1923-01-20) (sas) [-ibc, bc].cbr
+000173319433 Adventure v039n05 (1923-03-20) (jvh-aMouse) [-191, 192, ibc, bc].cbr
 000169802104 Adventure v039n06 (1923-03-30) [-ifc, 65, 66, ibc, bc].cbz
+000166547795 Adventure v042n02 (1923-08-20) (jvh-sas).cbr
+000176330240 Adventure v042n03 (1923-08-30) (sas).cbr
+000191046932 Adventure v043n03 (1923-10-30) (jvh-sas).cbr
 000164960400 Adventure v046n01 (1924-04-10) (jvh-sas).cbr
+000184735081 Adventure v050n06 (1925-01-30) (jvh-aMouse).cbr
+000063511851 Adventure v051n04 (1925-03-10) [-fc, ifc, ibc, bc].cbr
 000208786028 Adventure v053n01 (1925-06-10) (sas).cbr
+000169293772 Adventure v053n02 (1925-06-20) (sas).cbr
+000208846288 Adventure v053n03 (1925-06-30) (sas).cbr
+000199446373 Adventure v053n04 (1925-07-10) (sas).cbr
 000200730805 Adventure v053n05 (1925-07-20) (sas).cbr
+000196100548 Adventure v053n06 (1925-07-30) (sas).cbr
 000183964754 Adventure v054n01 (1925-08-10) [-ifc, ibc, bc].cbz
+000166088533 Adventure v056n01 (1925-12-10) (jvh-sas).cbr
+000152814363 Adventure v064n02 (1927-10-01) (jvh-sas).cbr
+000158642443 Adventure v064n04 (1927-11-01) (jvh-sas).cbr
 000136507110 Adventure v067n02 (1928-07-01) (ufikus-DPP).cbz
 000145197672 Adventure v067n06 (1928-09-01) (jvh-EXciter).cbr
+000200901146 Adventure v070n03 (1929-04-15) (jvh-sas).cbr
+000191515982 Adventure v076n06 (1930-12-01) [-ibc, bc] [~83, 84].cbr
+000075345158 Adventure v088n04 (1934-04) [-ifc].cbr
+000110009204 Adventure v088n05 (1934-05) (jvh-sas).cbr
 000096144088 Adventure v089n04 (1934-09-15) (jvh-EXciter).cbr
+000098282868 Adventure v092n04 (1935-06-15) (Darwination-DPP).cbr
 000095462477 Adventure v093n02 (1935-08-15) (jvh-EXciter).cbr
 000129004104 Adventure v097n03 (1937-07) (jvh-sas).cbr
+000132721091 Adventure v100n01 (1938-11) (jvh-sas).cbr
+000121234604 Adventure v100n03 (1939-01) (ufikus-DPP).cbz
 000081402081 Adventure v104n06 (1941-04) (AlexH-cape1736).cbr
 000105261376 Adventure v105n06 (1941-10) (D&M-DPP).cbr
 000102844787 Adventure v107n01 (1942-05) (AlexH-cape1736).cbr
 000077529092 Adventure v107n03 (1942-07) (AlexH-cape1736).cbr
+000082516484 Adventure v108n01 (1942-11) (AlexH-cape1736).cbr
 000082531336 Adventure v108n02 (1942-12) (AlexH-cape1736).cbr
+000091083676 Adventure v110n01 (1943-11) (AlexH-cape1736).cbr
 000113386999 Adventure v110n05 (1944-03) (jvh-EXciter).cbr
 000096693614 Adventure v113n04 (1945-08) (AlexH-cape1736).cbr
+000119211036 Adventure v115n05 (1946-09) (jvh-sas).cbr
+000150819163 Adventure v117n04 (1947-08) (jvh-sas).cbr
 000098225948 Adventure v120n04 (1949-02) (jvh-EXciter).cbr
 000061816256 Adventure v121n01 (1949-05) (Cimmerian32-DPP).cbr
 000134686237 Adventure v121n03 (1949-07).cbr
 000100331611 Adventure v121n06 (1949-10) (jvh-EXciter).cbr
 000178097235 Adventure v122n02 (1949-12) (JvH-slpn).cbr
+000101303713 Adventure v123n02 (1950-06) (jvh-EXciter).cbr
+000088776783 Adventure v125n04 (1952-01) (jvh-EXciter).cbr
+000126468382 Adventure v126n01 (1952-07) (jvh-sas).cbr
+000051115238 Adventure v138n03 (1962-02).cbr
+000080205481 Adventure v140n01 (1963-10) (AlexH-cape1736).cbr
 000048808474 Adventures in Horror v01n01 (1970-10).cbr
 000052017263 Adventures in Horror v01n02 (1970-12).cbr
+000074567794 After Hours v01n01 (1957) [-45-46].cbz
+000085677313 After Hours v01n01 (1957) [rescan].cbr
+000087079373 After Hours v01n02 (1957).cbr
+000105143890 After Hours v01n03 (1957).cbr
 000093976856 After Hours v01n04 (1957).cbr
 000121832532 Air Wonder Stories v01n01 (1929-07) (ufikus-DPP).cbz
 000164301613 Air Wonder Stories v01n02 (1929-08) (bogof39-cape1736) [-ifc, 97, 192, ibc].cbr
@@ -788,6 +860,38 @@
 000096491773 Amazing Stories v69n02 (1994-Fall) (Lenny Silv3r).cbz
 000097032888 Amazing Stories v73n04 (2004-12) (aMouse).cbr
 000116670651 Amazing Stories v74n02 (2005-02) (aMouse).cbr
+000027258389 American Indian Weekly v01n01 (1910).pdf
+000028891502 American Indian Weekly v01n02 (1910).pdf
+000034755904 American Indian Weekly v01n03 (1910).pdf
+000032693344 American Indian Weekly v01n04 (1910).pdf
+000033095135 American Indian Weekly v01n05 (1911).pdf
+000033322397 American Indian Weekly v01n06 (1911).pdf
+000035514087 American Indian Weekly v01n07 (1911).pdf
+000039046235 American Indian Weekly v01n08 (1911).pdf
+000036258794 American Indian Weekly v01n09 (1911).pdf
+000035027661 American Indian Weekly v01n10 (1911).pdf
+000033419185 American Indian Weekly v01n11 (1911).pdf
+000034251066 American Indian Weekly v01n12 (1911).pdf
+000034873174 American Indian Weekly v01n13 (1911).pdf
+000041361194 American Indian Weekly v01n14 (1911).pdf
+000037763023 American Indian Weekly v01n15 (1911).pdf
+000039163473 American Indian Weekly v01n16 (1911).pdf
+000038857046 American Indian Weekly v01n17 (1911).pdf
+000040883179 American Indian Weekly v01n18 (1911).pdf
+000040972163 American Indian Weekly v01n19 (1911).pdf
+000039587983 American Indian Weekly v01n20 (1911).pdf
+000039366575 American Indian Weekly v01n21 (1911).pdf
+000042560494 American Indian Weekly v01n22 (1911).pdf
+000042837714 American Indian Weekly v01n23 (1911).pdf
+000040596588 American Indian Weekly v01n24 (1911).pdf
+000038576377 American Indian Weekly v01n25 (1911).pdf
+000046669090 American Indian Weekly v01n26 (1911).pdf
+000042767766 American Indian Weekly v01n27 (1911).pdf
+000043165979 American Indian Weekly v01n28 (1911).pdf
+000044967462 American Indian Weekly v01n29 (1911).pdf
+000044420074 American Indian Weekly v01n30 (1911).pdf
+000042674188 American Indian Weekly v01n31 (1911).pdf
+000041029669 American Indian Weekly v01n32 (1911).pdf
 000030886762 American Science Fiction 01 (1952-06) (BL).cbr
 000033026203 American Science Fiction 02 (1952-07).cbr
 000013282603 American Science Fiction 08 (1952-12) (MadMaxAU).cbr
@@ -1867,10 +1971,207 @@
 000106203771 Astounding v65n05 (1960-07) (dtsg0318).cbr
 000092164631 Astounding v65n06 (1960-08) (UnkSc-cape1736).cbr
 000091715298 Astounding v66n01 (1960-09) (UnkSc-cape1736).cbr
-000038763700 Baad Mutha@!#ers v1 (1996).cbr
+000000982425 Astro-Adventures 01 (1987-01).pdf
+000001606611 Astro-Adventures 02 (1987-08).pdf
+000002662682 Astro-Adventures 03 (1988-01).pdf
+000002886629 Astro-Adventures 04 (1988-04).pdf
+000035677515 Astro-Adventures 05 (1988-10) (CosmicJukebox).cbr
+000002375068 Astro-Adventures 06 (1988-11).pdf
+000038469968 Astro-Adventures 07 (1989-04) (CosmicJukebox).cbr
+000001833029 Astro-Adventures 08 (1989-06).pdf
+000002350522 Aurora 19 v07n01 (1981-Summer).pdf
+000003140628 Aurora 20 v07n02 (1981-Winter).pdf
+000012265686 Aurora 21 v08n01 (1982-Summer).pdf
+000004525809 Aurora 22 v08n02 (1982-Winter).pdf
+000006917909 Aurora 23 v08n03 (1983-Winter).pdf
+000013621252 Aurora 24 v09n01 (1984-Summer).pdf
+000013864066 Aurora 25 v10n01 (1986-Winter).pdf
+000002744551 Aurora 26 v10n02 (1990-Summer).pdf
+000068121545 Authentic Science Fiction 02 (1951-01-15) (Bogof39).cbz
+000072926026 Authentic Science Fiction 04 (1951-02-15) (Bogof39).cbz
+000053317586 Authentic Science Fiction 05 (1951-03-01).cbz
+000062183270 Authentic Science Fiction 09 (1951-05) (Bogof39).cbz
+000056373187 Authentic Science Fiction 14 (1951-10) (Bogof39).cbz
+000017510050 Authentic Science Fiction 16 (1951-12).cbr
+000041132555 Authentic Science Fiction 20 (1952-04-15) (jvh-EXciter).cbr
+000031567467 Authentic Science Fiction 23 (1952-07) (MadMaxAU).cbr
+000030029164 Authentic Science Fiction 25 (1952-09) (MadMaxAU).cbr
+000063660608 Authentic Science Fiction 29 (1953-01).cbr
+000047853965 Authentic Science Fiction 31 (1953-03) (Anon Malefactor).cbz
+000093830206 Authentic Science Fiction 37 (1953-09) (SLiV).cbr
+000061562391 Authentic Science Fiction 39 (1953-11) (Qshadow-Bogof).cbr
+000064528949 Authentic Science Fiction 40 (1953-12) (Bogof39).cbz
+000073684937 Authentic Science Fiction 41 (1954-01) (Bogof39).cbz
+000073371796 Authentic Science Fiction 42 (1954-02) (Bogof39).cbz
+000070270428 Authentic Science Fiction 43 (1954-03) (Bogof39).cbz
+000076494427 Authentic Science Fiction 44 (1954-04) (Bogof39).cbz
+000074325265 Authentic Science Fiction 45 (1954-05) (Bogof39).cbz
+000076532703 Authentic Science Fiction 46 (1954-06) (Bogof39).cbz
+000068509894 Authentic Science Fiction 47 (1954-07) (Bogof39).cbz
+000061182599 Authentic Science Fiction 48 (1954-08) (Bogof39).cbz
+000063391475 Authentic Science Fiction 50 (1954-10) (Bogof39).cbz
+000060547397 Authentic Science Fiction 51 (1954-11) (Bogof39).cbz
+000065556863 Authentic Science Fiction 52 (1954-12) (Bogof39).cbz
+000063074072 Authentic Science Fiction 53 (1955-01) (Bogof39).cbz
+000064928322 Authentic Science Fiction 54 (1955-02) (Bogof39).cbz
+000063274260 Authentic Science Fiction 56 (1955-04) (Bogof39).cbz
+000063835118 Authentic Science Fiction 57 (1955-05) (Bogof39).cbz
+000060021312 Authentic Science Fiction 58 (1955-06) (Bogof39).cbz
+000072227828 Authentic Science Fiction 60 (1955-08) (Bogof39).cbz
+000072362562 Authentic Science Fiction 62 (1955-10) (Bogof39).cbz
+000075991756 Authentic Science Fiction 63 (1955-11) (Bogof39).cbz
+000073030861 Authentic Science Fiction 64 (1955-12) (Bogof39).cbz
+000072776781 Authentic Science Fiction 65 (1956-01) (Bogof39).cbz
+000071721383 Authentic Science Fiction 66 (1956-02) (Bogof39).cbz
+000075625407 Authentic Science Fiction 67 (1956-03) (Bogof39).cbz
+000067055854 Authentic Science Fiction 68 (1956-04) (JMorgan-cape1736).cbr
+000074841424 Authentic Science Fiction 70 (1956-06) (Bogof39).cbz
+000111066988 Authentic Science Fiction 71 (1956-07) (SLiV).cbr
+000071173474 Authentic Science Fiction 72 (1956-08) (Bogof39).cbz
+000105737271 Authentic Science Fiction 74 (1956-11) (SLiV).cbr
+000067137602 Authentic Science Fiction 75 (1956-12) (Bogof39).cbz
+000071159837 Authentic Science Fiction 76 (1957-01) (Bogof39).cbz
+000068727235 Authentic Science Fiction 77 (1957-02) (Bogof39).cbz
+000077482470 Authentic Science Fiction 78 (1957-03).cbr
+000071596140 Authentic Science Fiction 79 (1957-04) (Bogof39).cbz
+000074094089 Authentic Science Fiction 80 (1957-05) (Bogof39).cbz
+000074163230 Authentic Science Fiction 81 (1957-06) (Bogof39).cbz
+000073850110 Authentic Science Fiction 82 (1957-07) (Bogof39).cbz
+000071907529 Authentic Science Fiction 83 (1957-08) (Bogof39).cbz
+000075063581 Authentic Science Fiction 85 (1957-10) (Bogof39).cbz
+000069942456 Avon Fantasy Reader 01 (1947).cbz
+000087538998 Avon Fantasy Reader 02 (1947) (dtsg0318).cbr
+000073490169 Avon Fantasy Reader 03 (1947).cbz
+000115371469 Avon Fantasy Reader 04 (1947) (Wolfhound).cbr
+000074369913 Avon Fantasy Reader 05 (1947).cbz
+000078695826 Avon Fantasy Reader 06 (1948).cbz
+000147954078 Avon Fantasy Reader 07 (1948) (Wolfhound).cbr
+000106783376 Avon Fantasy Reader 08 (1948) (Wolfhound).cbr
+000150916685 Avon Fantasy Reader 09 (1949) (Wolfhound).cbr
+000084707531 Avon Fantasy Reader 10 (1949) (CosmicJukebox).cbr
+000076517115 Avon Fantasy Reader 11 (1949) (LennyS-EXciter).cbr
+000041751757 Avon Fantasy Reader 12 (1950).cbr
+000117482062 Avon Fantasy Reader 13 (1950) (Wolfhound).cbr
+000045869965 Avon Fantasy Reader 14 (1950).cbr
+000044126878 Avon Fantasy Reader 15 (1951).cbr
+000081181401 Avon Fantasy Reader 16 (1951).cbz
+000098667592 Avon Fantasy Reader 17 (1951) (cape1736).cbz
+000085839732 Avon Fantasy Reader 18 (1952) (Wolfhound).cbr
+000103938259 Avon Science Fiction And Fantasy Reader v01n01 (1953-01).cbr
+000063973434 Avon Science Fiction And Fantasy Reader v01n02 (1953-04) (qshadow-cape1736).cbr
+000037562479 Avon Science Fiction Reader 01 (1951) (cape1736).cbr
+000059859740 Avon Science Fiction Reader 02 (1951) (cape1736).cbr
+000031532414 Avon Science Fiction Reader 03 (1952) (cape1736).cbr
+000030679209 BBR 15 (1990-Spring) (MadMaxAU).cbr
+000034451296 BBR 16 (1990-Summer) (MadMaxAU).cbr
+000065680332 BBR 17 (1990-Winter) (MadMaxAU).cbr
+000035721975 BBR 18 (1991-Spring) (MadMaxAU).cbr
+000036150005 BBR 19 (1991-Summer) (MadMaxAU).cbr
+000038763700 Baad Mutha@!#ers Volume 1 (1996).cbr
+000029777286 Baby Doll v01n02 (1963).cbr
+000203908637 Bachelor v02n01 (1961-06).cbr
+000055427481 Bachelor v03n04 (1962-06).cbz
+000044405001 Bachelor v04n03 (1963-03).cbr
+000045179077 Bachelor v04n04 (1963-06).pdf
+000160696579 Bachelor v04n06 (1963-10).cbr
 000016660145 Banned In Britain 02 (2004) (Crapscans).cbr
+000015554895 Bardic Runes 08 (1994) (Gorgon776).cbr
+000028363360 Bardic Runes 10 (1995) (Gorgon776).cbr
+000018401755 Bardic Runes 11 (1995) (Gorgon776).cbr
+000013451326 Bardic Runes 12 (1995) (The Elves).cbr
+000007732936 Bardic Runes 13 (1996) (Gorgon776&The Elves).cbr
+000008092919 Bardic Runes 15 (1996) (The Elves).cbr
+000145418338 Bare v02n12 (1955-06).cbr
+000054202270 Battle Cry v01n29 (1957-04) (cape1736).cbr
+000015099396 Battle Cry v07n01 (1964-02).pdf
+000033251026 Beau v01n01 (1966-06) (D&M).cbr
+000049183634 Beau v01n03 (1966-08) (Dirty DREGS).cbr
+000055577091 Bedtime Stories v03n10 (1935-08) (D&M).cbr
+000062626272 Bedtime Stories v05n08 (1937-06) (ufikus-DPP).cbz
+000024014049 Bedtime Tales v01n10 (ufikus-DPP).cbz
+000061671393 Best True Fact Detective v06n03 (1950-01) (D&M).cbr
+000010825115 Bestseller Mystery Magazine 212 v01n03 (1958-11) (unz.org).cbr
+000010687431 Bestseller Mystery Magazine 214 v01n05 (1959-03) (unz.org).cbr
+000067617051 Bestseller Mystery Magazine 215 v01n06 (1959-05) (Gorgon776).cbr
+000060942569 Bestseller Mystery Magazine 216 v01n07 (1959-07) (Gorgon776).cbr
+000011922521 Bestseller Mystery Magazine 217 v01n08 (1959-09) (unz.org).cbr
+000011035965 Bestseller Mystery Magazine 219 v02n01 (1960-01) (unz.org).cbr
+000011166414 Bestseller Mystery Magazine 220 v02n02 (1960-03) (unz.org).cbr
+000062479640 Bestseller Mystery Magazine 225 v03n01 (1961-02) (Gorgon776).cbr
+000022194824 Betty Page Private Peeks v01 (1978).cbr
+000050637137 Betty Page Private Peeks v04 (1980).cbr
+000031445125 Bewitched v01n01 (1962).cbr
+000079922785 Beyond Fantasy Fiction v01n01 (1953-07) (cape1736).cbr
+000076056501 Beyond Fantasy Fiction v01n02 (1953-09) (cape1736).cbr
+000070904666 Beyond Fantasy Fiction v01n03 (1953-11) (Gorgon776).cbr
+000067093464 Beyond Fantasy Fiction v01n04 (1954-01) (Gorgon776).cbr
+000080022883 Beyond Fantasy Fiction v01n05 (1954-03) (Gorgon776).cbr
+000078690934 Beyond Fantasy Fiction v01n06 (1954-05) (Gorgon776).cbr
+000080005003 Beyond Fantasy Fiction v02n01 (1954-07) (cape1736).cbr
+000061232766 Beyond Fantasy Fiction v02n02 (1954-09) (cape1736).cbr
+000072444578 Beyond Fantasy Fiction v02n03 (1954-11) (cape1736).cbr
+000076153359 Beyond Fantasy Fiction v02n04 (1955-02) (cape1736).cbr
+000075094085 Beyond Infinity v01n01 (1967-11+12) (Gorgon776).cbr
+000020272621 Big-Book Western v03n06 (1937-03) (unz.org).cbr
+000067732700 Big-Book Western v08n03 (1940-10) [-bc].cbr
+000016684519 Big-Book Western v16n02 (1945-12) (unz.org).cbr
+000123579954 Big-Book Western v23n01 (1948-03) (EXciter).cbr
+000058897216 Big-Book Western v31n01 (1952-07) (EXciter).cbr
+000064070110 Bizarre Fantasy Tales v01n01 (1970-Fall) (cape1736).cbr
+000062982354 Bizarre Fantasy Tales v01n02 (1971-03) (cape1736).cbr
+000085976408 Black Book Detective v08n02 (1939-01) (jvh-EXciter).cbr
+000134575916 Black Book Detective v10n03 (1940-03) (wolfhound+Saskia).cbr
+000062988178 Black Book Detective v12n02 (1941-01) (Wilddog-Ufikus-DPP) [fixed].cbr
+000083185751 Black Book Detective v15n03 (1942-09) (bl-EXciter).cbr
+000076368353 Black Book Detective v18n03 (1944-Summer) (rangerhouse-movielover-Novus).cbz
+000089570587 Black Book Detective v20n02 (1945-Fall) (JNemec-cape1736).cbr
+000009959661 Black Book Detective v22n03 (1947-06) (meetoo7k) [reprint].cbr
+000151752637 Black Magic v03n04 (1967-01).cbr
+000082184087 Black Mask (UK) v07n09 (1950-08).cbr
+000102994877 Black Mask v01n05 (1920-08) [shrunk].cbr
+000206525218 Black Mask v01n06 (1920-09) [shrunk].cbr
+000045818639 Black Mask v02n02 (1920-11).cbr
+000103609781 Black Mask v04n03 (1921-12) [shrunk].cbr
+000101377976 Black Mask v05n01 (1922-04) [shrunk].cbr
+000036058002 Black Mask v05n05 (1922-08).cbr
+000068661979 Black Mask v27n02 (1945-09).cbz
+000005527007 Black Velvet v01n04 (1960).cbr
 000034847973 Blackest Heart 02 (1993).cbr
+000086533036 Blue Ribbon Western v09n03 (1946-12) (EXciter).cbr
+000105986348 Blue Ribbon Western v11n02 (1948-12).cbz
+000152271626 Bluebook for Men v102n07 (1963-08).cbr
+000001817604 Bobolings (1968-05).pdf
+000018709344 Bold v01n07 (1954-07).cbr
+000016593918 Bold v01n12 (1954-12).cbr
+000022476089 Bold v05n03 (1956-09).cbz
+000022042605 Bold v06n03 (1957-03).cbz
+000020370251 Bold v07n04 (1957-10) [-cf].cbz
 000019640538 Bomba Movies 01.cbr
+000021638583 Broadway Brevities v01n06 (1921-12) (taylorology.com).pdf
+000019299304 Broadway Brevities v01n14 (1922-08) (taylorology.com).pdf
+000056123759 Broadway Nights v01n09 (1929-03) (ufikus-DPP).cbr
+000031864701 Broadway Nights v02n02 (1929-08) (Darwination-DPP).cbr
+000029056536 Brunette v01n03 (1960).cbr
+000099112431 Buffalo Bill Wild West Annual 04 (1952) (Zeg).cbz
+000033353425 CO-EDS v02n02 (1942-08) (D&M).cbr
+000028539326 Cabaret Yearbook 03 (1956) [rescan].cbr
+000026270883 Cabaret v02n05 (1956-09).cbr
+000025345809 Cabaret v02n12 (1957-05).cbr
+000115219373 Cabaret v08n16 (1968-Summer).cbr
+000066317579 Cad v02n04 (1969-05) (DOM).cbr
+000035093700 California Girl 08 (1973-01) (D&M).cbr
+000071328119 Caper Annual (1963-Winter).cbr
+000085496833 Caper v06n01 (1960-01).cbr
+000050711511 Caper v09n02 (1963-03).cbr
+000093183847 Caper v09n04 (1963-07).pdf
+000112392665 Caper v10n03 (1964-05).cbr
+000051734527 Caper v10n06 (1964-11).cbr
+000105355593 Caper v11n05 (1965-09) [-fc].cbr
+000175647166 Caper v13n10 (1969-06).cbr
+000066795186 Caper v13n12 (1969-10) (D&M).cbr
+000039571519 Carnival v02n03 (1956-03) (D&M).cbr
+000006982937 Carnival v02n04 (1956-04).cbr
+000027242836 Carnival v02n11 (1956-11) (Pocket DREGS).cbr
 000028498198 Castle of Frankenstein 01 v01n01 (1962-01).cbz
 000075702684 Castle of Frankenstein 02 v01n02 (1962).cbz
 000024424413 Castle of Frankenstein 03 v01n03 (1963).cbr
@@ -1903,12 +2204,28 @@
 000073556107 Castle of Frankenstein 32 (2002) (FreebiesForThe3W-BONES).cbr
 000044461337 Castle of Frankenstein Annual (1967).cbr
 000034808532 Castle of Frankenstein Yearbook (2000) (YZ1).cbr
+000029330617 Celebrity v04n03 (1956-01) (D&M).cbr
+000040196935 Cemetery Dance 01 (1988-12).cbr
+000079937069 Cemetery Dance 02 (1989-06).cbr
+000104869886 Cemetery Dance 17+18 (1993-Fall).cbz
+000033994794 Cemetery Dance 56 (2006).pdf
+000163015396 Chacal v01n02 (1977-Spring).cbz
+000051158743 Chief Detective v01n02 (1950-09).cbr
+000039125134 Child Life v07n01 (1928-01) (Billy Dregs).cbr
+000033249595 Child Life v11n06 (1932-06) (BONES).cbr
+000032550703 Child Life v16n05 (1937-05) (BONES).cbr
+000033978515 Child Life v18n06 (1939-06) (BONES).cbr
+000032008248 Child Life v21n07 [1942-07] (BONES).cbr
+000027975901 Child Life v32n08 (1953-10) (Billy, Timmy Dregs).cbr
+000028691569 Child Life v36n02 (1957-02) (Billy Dregs).cbr
+000028264053 Child Life v59n06 (1980-06) (BONES).cbr
 000036092308 Chiller Theatre 02 (1995).cbr
 000019908092 Chiller Theatre 18 (2003).cbr
 000024043830 Chiller Theatre 22 (2005).cbr
 000049472653 Chiller Theatre 23 (2005) (Twobyfour-Mccoy).cbr
 000061825838 Chilling Monster Tales v01n01 (1966-08) (DREGS).cbr
 000029757057 Chilling Monster Tales v01n01 (1966-08).cbr
+000037641279 Chills 06 (1992-Spring) (CosmicJukebox).cbr
 000024514069 Cinefantastique v05n02 (1976-Fall) (TUBCBG).cbr
 000066951091 Cinefantastique v08n01 (1978-Winter) (Tranzor-Sprout-HQS).cbr
 000063340667 Cinefantastique v09n01 (1979-Fall) (Tranzor-Sprout-HQS).cbr
@@ -1986,9 +2303,75 @@
 000009853324 Cinemagic 23 (1983).pdf
 000009390130 Cinemagic 24 (1983).pdf
 000030546181 Cinemagic 33 (1986).pdf
+000126141615 Climax v06n01 (1960-04) (The Elves).cbr
+000088300154 Cloud 9 04 (1960).pdf
+000038158666 Cloud 9 v02n03 (1966) [fixed].cbr
+000036881707 Cloud 9 v02n03 (1966).cbr
+000036607299 Cloud 9 v03n01 (1966).cbr
+000057811520 Cloud 9 v03n02 (1967).cbr
+000142251481 Clues v35n06 (1936-05) (ATLPM-Urf).cbr
+000122180828 Clues v44n01 (1940-06).cbr
+000026677934 Cocktail v01n03 (1958).cbz
+000062539517 Comet v01n01 (1940-12) (UnkSc).cbz
+000110692958 Comet v01n02 (1941-01) (ufikus-DPP).cbz
+000044419838 Comet v01n03 (1941-03) (UnkSc).cbz
+000044384628 Comet v01n04 (1941-05) (UnkSc).cbz
+000019476736 Comet v01n05 (1941-07).cbz
+000067085567 Complete Cowboy v03n02 (1941-10) (JoelToreson).cbr
+000059869385 Complete Detective Cases v02n06 (1940-11) (DREGS PI).cbr
+000044747294 Complete Detective Cases v09n01 (1947-01) (DREGS).cbr
+000044721773 Complete Detective Cases v09n03 (1947-07) [-bc].cbr
+000052738639 Complete Man v07n01 (1967-02).cbz
+000093742866 Complete War Novels Magazine v01n03 (1943-01) (DPP).cbr
+000157882185 Complete Western Book Magazine v07n01 (1936-07) (ATLPM-Urf).cbr
+000161049784 Complete Western Book Magazine v09n05 (1938-01) (ATLPM-Urf).cbr
+000142481476 Complete Western Book Magazine v11n02 (1938-11) (ATLPM-Urf).cbz
+000094092200 Complete Western Book Magazine v18n04 (1951-08) (EXciter) [-ibc, bc].cbr
+000051963222 Confidential Detective Cases v10n06 (1960-04).cbr
+000077388146 Connoisseur's World (1964-07) (~fc).cbr
+000055732399 Copper Cuties v02n01 (1969-01).cbz
+000159963667 Cosmic Stories v01n01 (1941-03) (cape1736) [edit].cbr
+000159963669 Cosmic Stories v01n01 (1941-03) (cape1736).rar
+000000798650 Cosmic Stories v01n02 (1941-05) [text-only].zip
+000042247814 Cosmic Stories v01n03 (1941-07) (AK).cbr
+000040983775 Cosmos Science Fiction and Fantasy Magazine v01n01 (1977-05) (Gorgon776).cbr
+000047601225 Cosmos Science Fiction and Fantasy Magazine v01n02 (1977-07) (bones666-DREGS).cbr
+000056996372 Cosmos Science Fiction and Fantasy Magazine v01n03 (1977-09) (oak).cbz
+000025976173 Cosmos Science Fiction and Fantasy Magazine v01n04 (1977-11) (oak).cbz
+000058568736 Cosmos Science Fiction and Fantasy v01n01 (1953-09) (oak).cbz
+000041634581 Cosmos Science Fiction and Fantasy v01n02 (1953-11) (oak).cbz
+000140705898 Cosmos Science Fiction and Fantasy v01n03 (1954-03) (oak).cbr
+000051309559 Cosmos Science Fiction and Fantasy v01n04 (1954-07) (oak).cbz
+000009774101 Cosmos Science-Fantasy Review 01 (1969-04).cbr
+000042009745 Courage v01n01 (1957-11).cbr
+000036085880 Crack Detective v04n02 (1943-03) (Wilddog-DPP).cbz
+000097341086 Crack Detective v05n06 (1944-11) (Gorgon776) (-bc, ibc).cbr
+000067476051 Crack Detective v10n02 (1949-05) (Darwination-DPP).cbz
+000166270928 Crank! 03 (1994-Spring).cbz
 000026839441 Crazy Hip Go-Go Way-Out Monsters 029 (2003-10) (YZ1).cbr
 000029908912 Crazy Hip Go-Go Way-Out Monsters 032 (2004-01) (YZ1).cbr
+000090690241 Crime Busters v01n04 (1938-02) [-ifc].cbr
+000040125994 Crime Does Not Pay v02n06 (1969-09).cbr
+000046253417 Crime Does Not Pay v02n07 (1969-12).cbr
+000035738924 Crime Does Not Pay v03n01 (1970-04).cbr
+000056806581 Crime Expose v01n01 (1957-10).cbr
+000035087964 Crime Fiction Stories v01n01 (1950-12) (Cimmerian32).cbr
+000018321409 Crimes and Punishment 01 (1974).cbr
 000005489775 Crimson Celluloid 13+14 (1980) (toecutter).cbr
+000028758491 Cromlech v01n03 (1988) (CosmicJukebox).cbr
+000001147636 Crypt of Cthulhu 022 v03n06 (1984-Roodmass).pdf
+000044192498 Crypt of Cthulhu 023 v03n07 (1984-SJE) (wolfhound).cbr
+000032837328 Crypt of Cthulhu 026 v04n01 (1984-Hallowmas) (CosmicJukebox).cbr
+000000972677 Crypt of Cthulhu 033 v04n08 (1985-Lammas).pdf
+000001218305 Crypt of Cthulhu 034 v04n09 (1985-Michaelmas).pdf
+000037803363 Crypt of Cthulhu 038 v05n04 (1987-Eastertide) (CosmicJukebox).cbr
+000050750475 Crypt of Cthulhu 049 v06n07 (1987-Lammas) (Cosmic-Jukebox).cbr
+000044269210 Crypt of Cthulhu 050 v06n08 (1987-Michaelmas) (Cosmic-Jukebox).cbr
+000044204978 Crypt of Cthulhu 051 v07n01 (1987-Hallowmas) (CosmicJukebox).cbr
+000043551611 Crypt of Cthulhu 052 v07n02 (1987-Yuletide) (CosmicJukebox).cbr
+000031380634 Crypt of Cthulhu 053 v07n03 (1988-Candlemas) (CosmicJukebox).cbr
+000045918551 Crypt of Cthulhu 068 v09n01 (1989-Hallowmas) (CosmicJukebox).cbr
+000017052712 Crypt of Cthulhu 105 v19n03 (2000-Lammas).cbr
 000056208621 Cult Movies 21 (1997).cbz
 000098987564 Cult Movies 23 (1997).cbr
 000050710573 Cult Movies 35 (2001) (YZ1).cbr
@@ -2000,11 +2383,46 @@
 000050259982 Cult Movies 41 (2004) (YZ1).cbr
 000127697600 Cult Times 01 (1995-10) (NS2011).cbr
 000158738680 Cult Times 19 (1997-04) (NS2011).cbr
+000036778955 Dagon 11 (1986-01) (CosmicJukebox).cbr
+000044373520 Dagon 25 (1989-06-08) (CosmicJukebox).cbr
+000051533884 Daring Romances v09n01 (1959-09).cbr
+000031112678 Dark Dreams 04 (1985-08) (CosmicJukebox).cbr
+000037844860 Dark Dreams 07 (1989-02) (CosmicJukebox).cbr
+000039818998 Dark Horizons 07 (1973-12) (CosmicJukebox).cbr
+000022447608 Dark Horizons 08 (1974-04) (CosmicJukebox).cbr
+000029095782 Dark Horizons 09 (1974-Summer) (CosmicJukebox).cbr
+000031659705 Dark Horizons 10 (1974-Autumn+Winter) (CosmicJukebox).cbr
+000038783474 Dark Horizons 12 (1975-Autumn+Winter) (CosmicJukebox).cbr
+000041447389 Dark Horizons 13 (1976-Spring) (CosmicJukebox).cbr
+000043962273 Dark Horizons 14 (1976-Summer) (CosmicJukebox).cbr
+000044258487 Dark Horizons 15 (1976-Winter) (CosmicJukebox).cbr
+000032551455 Dark Horizons 20 (1979-Autumn) (CosmicJukebox).cbr
+000035929061 Dark Horizons 23 (1981-Summer) (CosmicJukebox).cbr
+000036094577 Dark Horizons 27 (1984-Summer) (CosmicJukebox).cbr
+000030872069 Dark Horizons 31 (1990) (CosmicJukebox).cbr
+000069314463 Dark Horizons 42 (2002-Autumn+Winter) (CosmicJukebox).cbr
+000039114459 Dark Horizons 43 (2003-Spring+Summer) (CosmicJukebox).cbr
+000083175814 Dark Horizons 44 (2003-Autumn+Winter) (CosmicJukebox).cbr
+000035642047 Dark Regions v01n02 (1987).cbr
 000005260053 Dark Terrors 01 (1992).cbr
 000010056871 Dark Terrors 02 (1992).cbr
 000013722104 Dark Terrors 03 (1992).cbr
 000014396075 Dark Terrors 04 (1992).cbr
+000032202585 Dark Troubadour 01 (1994-Autumn) (CosmicJukebox).cbr
+000028579621 Dark Troubadour 02 (1995-Summer) (CosmicJukebox).cbr
+000032841616 Dark Troubadour 03 (1996) (CosmicJukebox).cbr
+000027270322 Dark Troubadour 04 (1997-Autumn) (CosmicJukebox).cbr
+000050733342 Dead of Night 08 (1993-Fall+Winter).cbz
 000006010724 Dead on Arrival 003 (1990) (toecutter).cbr
+000024876320 Deathrealm 03 (1987-Fall) (RUL666).cbr
+000019995881 Deathrealm 04 (1987-Winter).cbr
+000026061625 Deathrealm 13 (1990-Fall+Winter).cbr
+000025149247 Deathrealm 14 (1991-Spring).cbr
+000049578748 Deathrealm 19 (1993-Fall).cbr
+000050658178 Deathrealm 20 (1993-Winter).cbr
+000050426862 Deathrealm 21 (1994-Spring).cbr
+000050954686 Deathrealm 27 (1996-Spring).cbr
+000192884863 Debonair v05n30 (1968-11).cbr
 000006262543 Deep Red 01 (1986-07).cbr
 000011136430 Deep Red 01 (1987-12).cbr
 000009882678 Deep Red 02 (1988-03).cbr
@@ -2021,6 +2439,92 @@
 000061699179 Delirium 02 (1993).cbr
 000108403354 Delirium 05 (1997) (djangokiller).cbr
 000023892734 Demonique 04 (1983) (gorbag) [fixed].cbr
+000039586928 Destinies v01n01 (1978-11-12) (Gorgon776).cbr
+000045888840 Destinies v01n02 (1979-01-02) (Gorgon776).cbr
+000021454682 Destinies v01n03 (1979-04-06) (Gorgon776).cbr
+000028024633 Destinies v01n04 (1979-08-09) (Gorgon776).cbr
+000022106794 Destinies v01n05 (1979-10-12) (Gorgon776).cbr
+000026785983 Destinies v02n01 (1979-02-03) (Gorgon776).cbr
+000041831851 Destinies v02n02 (1980-Spring) (Gorgon776).cbr
+000031240222 Destinies v02n03 (1980-Summer).cbz
+000038010816 Destinies v02n04 (1980-Fall) (Gorgon776).cbr
+000038272507 Destinies v03n01 (1981-Winter) (Gorgon776).cbr
+000027985769 Destinies v03n02 (1981-Spring) (Gorgon776).cbr
+000043743651 Detective Cases v15n03 (1965-03) (BONES).cbr
+000151631274 Detective Fiction Weekly v035n06 (1928-09-22) [JT].cbr
+000105617222 Detective Fiction Weekly v040n05 (1929-04-13) (jvh-sas).cbr
+000144668494 Detective Fiction Weekly v051n02 (1930-06-28) (ATLPM-Urf).cbr
+000041112017 Detective Fiction Weekly v089n01 (1934-11-10).cbz
+000092010787 Detective Fiction Weekly v100n01 (1936-02-15) (unz.org).cbz
+000096731598 Detective Fiction Weekly v103n03 (1936-07-04) (unz.org).cbz
+000098861500 Detective Fiction Weekly v104n06 (1936-09-05) (unz.org).cbz
+000096277751 Detective Fiction Weekly v105n02 (1936-09-19) (unz.org).cbz
+000100231300 Detective Fiction Weekly v105n04 (1936-10-03) (unz.org).cbz
+000096950101 Detective Fiction Weekly v105n05 (1936-10-10) (unz.org).cbz
+000108683347 Detective Fiction Weekly v105n06 (1936-10-17) (unz.org).cbz
+000122957573 Detective Fiction Weekly v106n01 (1936-10-24) (unz.org).cbz
+000115196357 Detective Fiction Weekly v106n03 (1936-11-07) (unz.org).cbz
+000096663300 Detective Fiction Weekly v106n05 (1936-11-21) (unz.org).cbz
+000100739876 Detective Fiction Weekly v106n06 (1936-11-28) (unz.org).cbz
+000102605447 Detective Fiction Weekly v107n02 (1936-12-12) (unz.org).cbz
+000093124054 Detective Fiction Weekly v109n03 (1937-03-13) (jvh-EXciter).cbr
+000115891473 Detective Fiction Weekly v117n04 (1938-02-19) (JT).cbr
+000086815610 Detective Fiction Weekly v118n03 (1938-03-19) (Darwination-DPP).cbr
+000096776248 Detective Fiction Weekly v138n04 (1940-07-20) (jvh-sas).cbr
+000120072750 Detective Fiction Weekly v141n02 (1940-11-09) (wolfhound).cbr
+000143015274 Detective Mystery Novel Magazine v28n03 (1948-Fall) (Daisy Chainsaw).cbr
+000136933400 Detective Novels Magazine v01n02 (1938-04) (ATLPM-Urf).cbr
+000106993277 Detective Short Stories v03n05 (1941-11) (Gorgon776) [-ifc].cbr
+000046016211 Detective Story v002n05 (1916-03-05) (pulpmags.org).pdf
+000042189907 Detective Story v005n01 (1916-10-05).cbz
+000018648842 Detective Story v006n01 (1917-01-05).cbz
+000152955494 Detective Story v042n06 (1921-08-27) (D&M-DPP).cbr
+000126737021 Detective Story v119n03 [1930-06-14] (amouse-sas).cbr
+000061369922 Detective Story v156n01 (1938-05) (ufikus-DPP).cbz
+000137711741 Detective Story v159n05 (1940-03) (wolfhound).cbr
+000204333114 Detective Story v163n05 [1942-03] (jvh-sas).cbr
+000145998986 Detective Story v164n01 (1942-05) (sas).cbr
+000146797012 Detective Tales v05n03 (1937-02) (ATLPM-Urf).cbr
+000093364869 Detective Tales v28n03 (1944-10) (Darwination-DPP).cbr
+000083138491 Detective Tales v32n02 (1946-01).cbz
+000158107278 Detective Tales v45n02 (1950-05).cbr
+000110420352 Detective Tales v50n01 (1952-10) [~23, 24].cbr
+000041388051 Diabolique 06 (2011-09+10) (Re-em-DCP).cbr
+000055579349 Diabolique 07 (2011-11+12) (Re-em-DCP).cbr
+000056993521 Diabolique 08 (2012-01+02) (Re-em-DCP).cbr
+000037282945 Diabolique 11 (2012-07+08) (Re-em-DCP).cbr
+000029934487 Diamond Stud v03n04 (1964).cbr
+000357813935 Diamond Stud v04n05 (1964).cbr
+000141746595 Dime Detective Magazine v50n04 (1946-03) (Wolfhound) [-fc, ifc].cbr
+000256865968 Dime Detective Magazine v61n01 (1949-09).cbr
+000071084951 Dime Mystery Magazine v17n01 (1938-04) [-ifc].cbr
+000072419556 Dime Mystery Magazine v17n04 (1938-07).cbr
+000133232550 Dime Mystery Magazine v24n03 (1940-11) [-ifc].cbz
+000005823918 Dime Mystery Magazine v33n04 (1946-09).pdf
+000088056776 Dime Western Magazine v11n03 (1935-07-15).cbr
+000074867921 Dime Western Magazine v29n04 (1941-04) (EXciter) [-ifc].cbr
+000060769418 Dime Western Magazine v35n01 (1943-01) [-ibc, bc].cbr
+000077295040 Dime Western Magazine v45n02 (1946-02) (EXciter).cbr
+000152744361 Dime Western Magazine v48n01 (1947-01).cbr
+000055954756 Dime Western Magazine v51n01 (1948-01).cbr
+000084683129 Dime Western Magazine v51n04 (1948-04) (cape1736).cbr
+000105710263 Dime Western Magazine v52n01 (1948-05).cbz
+000158372362 Dime Western Magazine v56n04 (1949-12) (oak).cbr
+000076589870 Dixon Hawke's Case Book 04 (1940-Spring) [-2].cbr
+000077174691 Dixon Hawke's Case Book 07 (1941-Autumn).cbz
+000013378750 Doc Savage Quarterly 01 (1979).cbr
+000014925241 Doc Savage Quarterly 02 (1979) (cape1736).cbr
+000012265434 Doc Savage Quarterly 03 (cape1736).cbr
+000015745448 Doc Savage Quarterly 04 (cape1736).cbr
+000016762817 Doc Savage Quarterly 05 (cape1736).cbr
+000019479052 Doc Savage Quarterly 06 (cape1736).cbr
+000021936236 Doc Savage Quarterly 07 (1981-10) (cape1736).cbr
+000038168065 Doc Savage Quarterly 10 (cape1736).cbr
+000166057907 Double Action Western v12n06 (1946-05).cbz
+000110428954 Double Action Western v14n04 (1948-02) (JT).cbr
+000086411703 Double Action Western v19n02 (1951-11).cbz
+000015559935 Double Action Western v19n03 (1952-01) (unz.org).cbr
+000019744411 Double Action Western v20n04 (1953-03) (unz.org).cbr
 000011161519 Draculina 10 (1990-02).cbr
 000022410748 Draculina 14 (1992-12).cbr
 000034551700 Draculina 23 (1995-07) (johnny2eyes-DCP).cbr
@@ -2029,8 +2533,91 @@
 000010824664 Draculina Fear Book (1992).cbr
 000024364122 Dreadful Pleasures 08+09 (1995).cbr
 000019024043 Dreadful Pleasures 10 (1995).cbr
+000013052011 Dream World v01n01 (1957-02) (Anon Malefactor).cbz
+000043202821 Dream World v01n02 (1957-05) (anon-oak).cbz
+000043345247 Dream World v01n03 (1957-08) (anon-oak).cbz
+000087605178 Dream World v02n02 (1924-09) (D&M-DPP).cbr
+000102642605 Duke v01n01 (1957-06) (Darwination).cbr
+000047209584 Dynamic Science Fiction (UK) 01 (1954) (LennyS-EXciter).cbr
+000046476090 Dynamic Science Fiction (UK) 02 (1954) (LennyS-EXciter).cbr
+000043936364 Dynamic Science Fiction (UK) 03 (1954) (LennyS-EXciter).cbr
+000115730666 Dynamic Science Fiction v01n01 (1952-12) (Gorgon776).cbr
+000144027403 Dynamic Science Fiction v01n02 (1953-03) (Gorgon776).cbr
+000178832196 Dynamic Science Fiction v01n03 (1953-06) (slpn).cbr
+000129518417 Dynamic Science Fiction v01n04 (1953-08) (cape1736).cbr
+000171291254 Dynamic Science Fiction v01n05 (1953-10) (slpn).cbr
+000057213815 Dynamic Science Fiction v01n06 (1954-01) (sleipnir-reconstructed).cbr
+000044704948 Dynamic Science Stories v01n01 (1939-02) (Gorgon776).cbr
+000036938151 Dynamic Science Stories v01n02 (1939-04-05).cbr
+000013327240 ERB-dom 14 (1965) (Spectre99).cbz
+000010485614 ERB-dom 22 (1967) (Camille Cazedessus).cbr
+000009865783 ERB-dom 22 (1967) (Spectre99).cbz
+000024781959 ERB-dom 30 (1970) (Twobyfour-McCoy).cbr
+000007831869 ERB-dom 32 (1970) (Twobyfour-McCoy).cbr
+000012752551 ERB-dom 33 (1970) (Twobyfour-McCoy).cbr
+000013267518 ERB-dom 34 (1970) (Twobyfour-McCoy).cbr
+000015446049 ERB-dom 37 (1970) (Twobyfour-McCoy).cbr
 000003045755 Ecco 16 (1992) (Kill-Gore).pdf
+000020479534 Echoes 32 (1987-08) (CosmicJukebox).cbr
+000110199916 Ed McBain's 87th Precinct Mystery Magazine v01n04 (1975-04) (slpn).cbr
+000055877754 Ed McBain's Mystery Book 01 (1960).cbz
+000081608309 Edgar Wallace Mystery Magazine (US) v01n01 (1966-03).cbz
+000056712958 Edgar Wallace Mystery Magazine v01n01 (1964-08).cbz
+000057472578 Edgar Wallace Mystery Magazine v01n02 (1964-09).cbz
+000059519978 Edgar Wallace Mystery Magazine v01n03 (1964-10).cbz
+000061182341 Edgar Wallace Mystery Magazine v02n04 (1964-11).cbz
+000059716541 Edgar Wallace Mystery Magazine v02n05 (1964-12).cbz
+000061119716 Edgar Wallace Mystery Magazine v02n06 (1965-01).cbz
+000060721441 Edgar Wallace Mystery Magazine v02n07 (1965-02).cbz
+000059254511 Edgar Wallace Mystery Magazine v02n08 (1965-03).cbz
+000060711519 Edgar Wallace Mystery Magazine v02n09 (1965-04).cbz
+000059177527 Edgar Wallace Mystery Magazine v02n10 (1965-05).cbz
+000059233920 Edgar Wallace Mystery Magazine v02n11 (1965-06).cbz
+000056900320 Edgar Wallace Mystery Magazine v02n12 (1965-07).cbz
+000053501886 Edgar Wallace Mystery Magazine v02n13 (1965-08).cbz
+000049859339 Edgar Wallace Mystery Magazine v02n14 (1965-09).cbz
+000049962130 Edgar Wallace Mystery Magazine v02n15 (1965-10).cbz
+000052086976 Edgar Wallace Mystery Magazine v02n16 (1965-11).cbz
+000066051785 Edgar Wallace Mystery Magazine v02n17 (1965-12).cbz
+000066709046 Edgar Wallace Mystery Magazine v03n18 (1966-01).cbz
+000068305042 Edgar Wallace Mystery Magazine v03n19 (1966-02).cbz
+000059754321 Edgar Wallace Mystery Magazine v03n20 (1966-03).cbz
+000059979475 Edgar Wallace Mystery Magazine v03n21 (1966-04).cbz
+000059056667 Edgar Wallace Mystery Magazine v03n22 (1966-05).cbz
+000058859830 Edgar Wallace Mystery Magazine v03n23 (1966-06).cbz
+000058293917 Edgar Wallace Mystery Magazine v03n24 (1966-07).cbz
+000062747863 Edgar Wallace Mystery Magazine v03n25 (1966-08).cbz
+000069798373 Edgar Wallace Mystery Magazine v03n26 (1966-09).cbz
+000067583617 Edgar Wallace Mystery Magazine v03n27 (1966-10).cbz
+000058313800 Edgar Wallace Mystery Magazine v03n28 (1966-11).cbz
+000067222398 Edgar Wallace Mystery Magazine v03n29 (1966-12).cbz
+000077742122 Edgar Wallace Mystery Magazine v04n30 (1967-01) (CosmicJukebox).cbr
+000057882149 Edgar Wallace Mystery Magazine v04n31 (1967-02).cbz
+000059854796 Edgar Wallace Mystery Magazine v04n32 (1967-03).cbz
+000063798662 Edgar Wallace Mystery Magazine v04n33 (1967-04).cbz
+000061605729 Edgar Wallace Mystery Magazine v04n34 (1967-05).cbz
+000059387322 Edgar Wallace Mystery Magazine v04n35 (1967-06).cbz
+000037638219 Ellery Queen's Anthology 33 (1977-Spring+Summer) (Gorgon776).cbr
+000034624669 Ellery Queen's Anthology 34 (1977-Fall+Winter) (Gorgon776).cbr
+000024359893 Ellery Queen's Anthology 36 (1978-Fall+Winter) (Gorgon776).cbr
+000173444056 Ellery Queen's Anthology 40 (1980-Fall+Winter) (Gorgon776).cbz
+000055531789 Ellery Queen's Anthology 43 (1982-Spring+Summer) (Gorgon776).cbz
+000021165029 Ellery Queen's Anthology 47 (1983-Fall) (Gorgon776) [fixed].cbz
+000023166738 Ellery Queen's Anthology 51 (1984-Winter) (Gorgon776).cbr
+000021301273 Ellery Queen's Anthology 53 (1985-Fall) (Gorgon776).cbr
+000020980004 Ellery Queen's Anthology 55 (1986-Fall) (Gorgon776).cbr
+000022138525 Ellery Queen's Anthology 57 (1987-Fall) (Gorgon776).cbr
+000023172877 Ellery Queen's Anthology 58 (1988-Summer) (Gorgon776).cbr
+000020909346 Ellery Queen's Anthology 59 (1988-Fall) (Gorgon776).cbr
 000066912557 Ellery Queen's Mystery Magazine 894+895 v147n03+04 (2016-03+04) (Magzter).cbr
+000048688238 Escapade v01v06 (1956-03) (McNation).cbr
+000097402493 Escapade v09n04 (1964-06).pdf
+000148046624 Escapade v10n01 (1964-12) [~fc, 1, 2].cbr
+000047539796 Escape! v01n01 (1961-01).cbz
+000100068280 Espionage Magazine v02n03 (1986-08) (Urf).cbz
+000116482433 Esquire v01n01 (1933-Autumn) (D&M).cbr
+000135893768 Esquire v01n02 (1934-01).cbr
+000221342937 Esquire v02n01 (1934-06) (sas).cbz
 000005429913 European Trash Cinema 01 (1989) (toecutter).cbr
 000002270516 European Trash Cinema 04 (1989) (toecutter).cbr
 000003183018 European Trash Cinema 05 (1989) (toecutter).cbr
@@ -2053,7 +2640,44 @@
 000042453342 European Trash Cinema v02n10 (1994) (djangokiller).cbr
 000040171989 European Trash Cinema v02n11 (1995).cbr
 000040715205 European Trash Cinema v02n12 (1995).cbr
+000017098735 Eve v01n01 (1960).cbz
+000030398795 Eve v01n01 (1962-07).cbr
+000030513880 Eve v01n03 (1962-10).cbr
+000112955428 Exciting Detective v01n01 (1940-Fall) [-ibc, bc].cbz
+000111779319 Exciting Love v19n03 (1953-Spring) (Gorgon776).cbr
+000107339598 Exciting Love v22n03 (1955-Summer) (Gorgon776).cbr
+000078073981 Exciting Western v08n02 (1944-10).cbr
+000083693033 Exciting Western v09n01 (1945-02) (unz.org).cbz
+000082341528 Exciting Western v10n01 (1945-08) (JT).cbr
+000033290946 Exciting Western v12n01 (1946-08) (Wilddog-DPP) [-ibc, bc].cbr
+000033068343 Exciting Western v12n03 (1947-01) (Wilddog-DPP) [-ibc, bc].cbr
+000039243986 Exciting Western v14n01 (1947-09) (Wilddog-DPP).cbr
+000090520636 Exciting Western v17n03 (1949-07) (unz.org).cbz
+000098306043 Exciting Western v19n02 (1950-05) (EXciter).cbr
+000099190004 Exciting Western v21n02 (1951-05) (EXciter) [fixed].cbr
+000095386891 Exciting Western v25n01 (1953-03) (EXciter).cbr
+000033931732 Exotic Adventures v01n03 (1958) (Darwination-McCoy).cbr
 000401833762 Exotic Cinema v01n02 (1966-10) (Sari).cbz
+000031772524 Exotique 14 (1957) [reprint].cbz
+000031871502 Exotique 17 (1957) [reprint].cbz
+000032966048 Exotique 18 (1957) [reprint].cbz
+000032610691 Exotique 19 (1957) [reprint].cbz
+000034078629 Exotique 20 (1957) [reprint].cbz
+000032328742 Exotique 21 (1957) [reprint].cbz
+000034885928 Exotique 23 (1958) [reprint].cbz
+000034481861 Exotique 24 (1958) [reprint].cbz
+000031910152 Exotique 25 (1958) [reprint].cbz
+000033156952 Exotique 26 (1958) [reprint].cbz
+000033205592 Exotique 27 (1958) [reprint].cbz
+000033116973 Exotique 28 (1958) [reprint].cbz
+000033228007 Exotique 29 (1958) [reprint].cbz
+000031613343 Exotique 30 (1958) [reprint].cbz
+000032136279 Exotique 31 (1958) [reprint].cbz
+000031010434 Exotique 32 (1958) [reprint].cbz
+000063822626 Expose Detective v02n04 (1959-01) (DREGS P.I.).cbr
+000071563063 Extro v01n01 (1982-02+03) (SLiV).cbr
+000086822949 Extro v01n02 (1982-04+05) (SLiV).cbr
+000034527742 Exuberance Magazine 02 (1991-Winter).cbr
 000008893882 Eyeball 01 (1989) (Mumra CG).cbr
 000038389115 Fantastic Films 01 v01n01 (1978-04) (Blake).cbr
 000077771725 Fantastic Films 02 v01n02 (1978-06) (Tranzor-HQS).cbr
@@ -2268,3 +2892,443 @@
 000054209117 House of Horror 01 (1978-04).cbr
 000029031358 House of Horror 19 (1978).cbr
 000027923703 House of Horror 20 (1978).cbr
+000008235704 In The Flesh 01 (1989).cbr
+000012420535 In The Flesh 02 (1989).cbr
+000016855410 In The Flesh 03 (1990).cbr
+000017818689 In The Flesh 04 (1990).cbr
+000020134939 In The Flesh 05 (1990).cbr
+000033637656 Invasion of the Sad Man Eating Mushrooms 01 (1991) (Noose).cbr
+000016212345 It's Only A Movie! v01n01 (1990) (TGS).cbz
+000025567119 It's Only A Movie! v01n02 (1990) (TGS).cbz
+000029354575 It's Only A Movie! v01n03 (1990) (TGS).cbz
+000004134154 Joe Bob Report v11n07 (1995-04-03).pdf
+000021376195 Kaiju-Fan 04 (1996-11) (YZ1).cbr
+000038568078 Killing Moon 02 (1994-Summer) (Draculina).cbz
+000096512011 Lightspeed 01 (1998-06) (wolfscan).cbr
+000028140982 Lunchmeat 02 (2009) (CAGO).cbr
+000035484646 Lunchmeat 03 (2009).cbr
+000048428023 Lunchmeat 04 (2010) (DirtyDanDillinger).cbr
+000053838237 Lunchmeat 05 (2010) (MIG).cbr
+000043622028 Mad Monsters 06 (1963) (jodyanimator).cbz
+000012838275 Mad Scientist 11 (2005-Spring).cbr
+000012603810 Mad Scientist 13 (2006-Spring).cbr
+000016301951 Midnight Marquee 33 (1984-Fall).cbr
+000017732897 Midnight Marquee 34 (1985-Fall).cbr
+000019429679 Midnight Marquee 35 (1986-Fall).cbr
+000018126366 Midnight Marquee 36 (1987-Fall).cbr
+000019644161 Midnight Marquee 38 (1989-Spring).cbr
+000043914553 Midnight Marquee 47 (1994-Summer).cbr
+000055187546 Modern Monster 01 (1966-04).cbr
+000057389281 Modern Monsters 02 (1966-06).cbr
+000058415707 Monster Fantasy 01 (1975-04) (BONES).cbr
+000056147121 Monster Fantasy 02 (1975-06) (BONES).cbr
+000061910553 Monster Fantasy 03 (1975-08) (BONES).cbr
+000058335347 Monster Fantasy 04 (1975-10) (BONES).cbr
+000053350033 Monster Land 01 (1985-02) (AngryDavros-DREGS).cbr
+000044147033 Monster Land 01 (1985-02) (Teachbug-666).cbr
+000013536317 Monster Land 01 (1985-02).cbr
+000028546931 Monster Land 02 (1985-04) (MS).cbr
+000040612220 Monster Land 02 (1985-04) (Teachbug-666).cbr
+000013957447 Monster Land 03 (1985-06) (HML).cbz
+000047338168 Monster Land 03 (1985-06) (Teachbug-Sprout-DREGS).cbr
+000039413000 Monster Land 04 (1985-08) (Huesos-DREGS).cbr
+000032003074 Monster Land 05 (1985-10) (MS).cbr
+000072969151 Monster Land 05 (1985-10) (teachbug-777).cbr
+000049020658 Monster Land 06 (1985-12) (AngryDavros-DREGS).cbr
+000011936370 Monster Land 07 (1986-02) (HML).cbz
+000022356600 Monster Land 08 (1986-03) (donimo).cbr
+000048671905 Monster Land 09 (1986-04) (Ragman-Dregs).cbr
+000042432142 Monster Land 09 (1986-04) (salt of the earth).cbr
+000041231749 Monster Land 10 (1986-06) (Ragman-Dregs).cbr
+000039695884 Monster Land 11 (1986-07) (CancerPatient-Dregs).cbr
+000009977389 Monster Land 11 (1986-07).cbz
+000025644968 Monster Land 12 (1986-08) (MS) [fixed].cbr
+000018119115 Monster Land 13 (1986-11) (donimo).cbr
+000082851732 Monster Land 15 (1986-12) (Curved Air).cbz
+000054508536 Monster Land 16 (1987-02) (LegendaryLittleStinker-teach-BONES).cbr
+000028007342 Monster Land 17 (1987-Fall) (MS).cbr
+000005366307 Monster Mag 01 (1973).cbr
+000008472825 Monster Mag 03 (1974).cbr
+000007473697 Monster Mag 04 (1974).cbr
+000018579547 Monster Maker Journal 01 (1995) (Carbunkle-DREGS) [b+w].cbr
+000019945991 Monster Maker Journal 01 (1995) (Carbunkle-DREGS) [color].cbr
+000026343416 Monster Mania 02 (1967-01).cbr
+000005149857 Monster Parade 02 (1958) (magiccarpetburn) [incomplete].cbr
+000004558281 Monster Parade 03 (1959) (magiccarpetburn) [incomplete].cbr
+000000678545 Monster Parade 04 (1959) (magiccarpetburn) [incomplete].cbr
+000032734378 Monster World 01 (1964-11) (jodyanimator).cbz
+000022662324 Monster World 01 (1964-11).cbr
+000074943935 Monster World 02 (1965-01) (teachbug-777).cbr
+000025027540 Monster World 02 (1965-01).cbr
+000024529838 Monster World 03 (1965-04).cbr
+000055602536 Monster World 04 (1965-06) (teachbug-bones666).cbr
+000079560365 Monster World 05 (1965-10) (twobyfour-RapeRock-DREGS).cbr
+000075476936 Monster World 06 (1966-01) (teachbug-777).cbr
+000083398980 Monster World 07 (1966-03) (teachbug-777).cbr
+000025800844 Monster World 07 (1966-03).cbr
+000098181293 Monster World 08 (1966-05) (teachbug-777).cbr
+000065218420 Monster World 09 (1966-07) (teachbug-bones666).cbr
+000025434777 Monster World 09 (1966-07).cbr
+000078268715 Monster World 10 (1966-09) (twobyfour-RapeRock-teachbug-DREGS).cbr
+000018056017 Monster! 001 (1991) [fixed].cbr
+000039579166 Monsterama 01 (1991-05) (bones666-DREGS).cbr
+000023939381 Monsterama 02 (1992-Spring).cbr
+000012859669 Monsters Unlimited 04 (1965).cbz
+000013450509 Monsters Unlimited 05 (1966).cbz
+000010839035 Monsters Unlimited 06 (1966).cbz
+000012608323 Monsters Unlimited 07 (1966).cbz
+000017732285 Monsters and Heroes 02 (1967) (bones666-DREGS).cbr
+000028419210 Monsters and Heroes 03 (1968) (bones666-DREGS).cbr
+000029094161 Monsters and Heroes 04 (1969) (bones666-DREGS).cbr
+000027175225 Monsters and Heroes 05 (1969) (bones666-DREGS).cbr
+000031327814 Monsters and Heroes 06 (1969) (bones666-DREGS).cbr
+000021113030 Monsters and Heroes 07 (1970) (Twoby666-DREGS).cbr
+000035073739 Monsters of the Movies 02 (1974-08) (Gambit-Woodman).cbr
+000030776227 Monsters of the Movies 05 (1975) (vigilante407).cbz
+000051280393 Monsters of the Movies 06 (1975) (Mal32-Gambit).cbz
+000010513287 Monsters to Laugh With 01 (1964).cbz
+000011154345 Monsters to Laugh With 02 (1964).cbz
+000011371174 Monsters to Laugh With 03 (1965) [rescan].cbz
+000031324515 Monsterscene 03 (1994-Fall) (YZ1).cbr
+000028289464 Monsterscene 06 (1995-Fall) (jodyanimator).cbz
+000017172143 Monstroid 01 (1992-Autumn).cbr
+000094391690 Movie Monsters 01 (1974-12) (twobyfour-ElDuce-DREGS).cbr
+000098032533 Movie Monsters 02 (1975-02) (twobyfour-ElDuce-DREGS).cbr
+000038075752 Movie Monsters 03 (1975-04).cbr
+000099017129 Movie Monsters 04 (1975-08) (twobyfour-ElDuce-DREGS).cbr
+000009018441 Naked! Screaming! Terror! 02 (1990) (toecutter).cbr
+000008999939 Naked! Screaming! Terror! 03 (1990) (gorbag).cbr
+000018261324 Naked! Screaming! Terror! 04+05 (1990) (toecutter).cbr
+000017286096 Necronomicon 01 (1993-Winter).cbr
+000051038673 Penny Blood 11 (2008-Fall) (fornseyAndTheHardbodies).cbr
+000008680910 Phantasma 04 (1990) (Jack Brent).cbr
+000042371043 Photon 20 (1971) (hyperdave).cbr
+000040956047 Photon 25 (1974) (toecutter).cbr
+000027115784 Photon 26 (1975) (DREGS).cbr
+000022406950 Psychotic Reaction v2n01 (1991) [fixed].cbr
+000015640104 Psychotic Reaction v2n01 (1991).cbr
+000090832806 Quasimodo's Monster Magazine v01n03 (1975-07).cbr
+000070627962 Quasimodo's Monster Magazine v02n06 (1976-02).cbr
+000007864649 Radio Times (1994-08-06) [incomplete].cbr
+000010098049 Samhain 01 (1986-11).cbr
+000019378614 Samhain 09 (1988-06).cbr
+000028384692 Scan 01 (1997) (Twobyfour-DREGS).cbr
+000108770978 Scan 02 (1997).cbr
+000001844948 Scareaphanalia 59 (1987-11).pdf
+000020060972 Scars v01n08 (2008-12+01).cbr
+000014600127 Scars v02n01 (2009-02).cbr
+000014788743 Scars v02n02 (2009-03).cbr
+000016650521 Scars v02n03 (2009-04).cbr
+000013334458 Scars v02n04 (2009-05).cbr
+000015024546 Scars v02n05 (2009-06).cbr
+000016041922 Scars v02n06 (2009-08).cbr
+000013409428 Scars v02n07 (2009-09).cbr
+000020321847 Scars v02n08 (2009-10).cbr
+000017631737 Scars v02n09 (2009-12).cbr
+000011918161 Scars v03n01 (2010-01).cbr
+000005790435 Scars v03n02 (2010-Spring).cbr
+000006582025 Scars v03n03 (2010-Summer).cbr
+000007173674 Scars v04n01 (2011-07).cbr
+000008721945 Scary Monsters Magazine 001 (1991-10).cbr
+000009516132 Scary Monsters Magazine 002 (1992-03).cbr
+000010095594 Scary Monsters Magazine 003 (1992-06).cbr
+000015434805 Scary Monsters Magazine 004 (1992-09).cbr
+000020741532 Scary Monsters Magazine 010 (1994-03).cbr
+000024373426 Scary Monsters Magazine 011 (1994-06).cbr
+000094808266 Scary Monsters Magazine 018 (1996-03).cbr
+000156108521 Scary Monsters Magazine 070 (2009-04) (FORRY).cbr
+000078749252 Scary Monsters Magazine 077 (2011-01) (YZ1).cbr
+000099248943 Scary Monsters Magazine 078 (2011-04) (YZ1).cbr
+000099666853 Scary Monsters Magazine 079 (2011-06).cbr
+000012588283 Scary Monsters Magazine 1993 Yearbook (1993-01).cbr
+000020032575 Scary Monsters Magazine 1994 Yearbook (1994-01).cbr
+000102111994 Scary Monsters Magazine 2011 Yearbook (2011-03).cbr
+000079657400 Science Fiction Review 015 (1975-11) (madmaxau).cbr
+000032133286 Science Fiction Review 017 (1976-05) (ABPVM).cbz
+000147294471 Science Fiction Review 025 (1978-05) (madmaxau).cbr
+000019039508 Scream Queens Illustrated 01 (1994) (Stray Cat).cbr
+000039752300 Scream Queens Illustrated 09 (1995) (johnny2eyes-DCP).cbr
+000026493603 Scream Queens Illustrated 10 (1995) (Huesos-DREGS).cbr
+000038677311 Scream Queens Illustrated 13 (1996).cbr
+000035496994 Scream Queens Illustrated 15 (1996) (DREGS).cbr
+000014934186 Scream Queens Illustrated 27 (2001).cbr
+000033902695 Scream Queens Illustrated Presents Scream Beat 01 (1995).cbr
+000059083062 Screem 12 (2006) (foolindavesclothing).cbr
+000066624743 Screem 17 (2009).cbr
+000074224645 Screem 18 (2009).cbr
+000043690973 Screem 22 (YZ1).cbr
+000013727772 Screen Monsters 01 (1992-09).cbr
+000020062585 Screen Monsters 04 (1993-01).cbr
+000024161706 Shivers 01 (1992-06).cbr
+000015270668 Shivers 02 (1992-08).cbr
+000015568967 Shivers 03 (1992-10).cbr
+000015381584 Shivers 04 (1992-12).cbr
+000013220177 Shivers 05 (1993-02).cbr
+000011829196 Shivers 06 (1993-03).cbr
+000013712429 Shivers 07 (1993-06).cbr
+000012824144 Shivers 08 (1993-08).cbr
+000012474723 Shivers 09 (1993-10).cbr
+000013624028 Shivers 10 (1994-01).cbr
+000063245736 Shivers 35 (1996-11).cbr
+000092827883 Shock Cinema 09 (1996).cbz
+000099171414 Shock Cinema 10 (1997).cbr
+000028213248 Shock Cinema 36 (2009) (CAGO).cbr
+000006798717 Shock Xpress v01n04 (1986-05+06).cbr
+000008472936 Shock Xpress v01n05 (1986-08+09).cbr
+000009645600 Shock Xpress v01n06 (1987-Spring).cbr
+000014891974 Shock Xpress v02n02 (1987-Winter).cbr
+000018572079 Shock Xpress v02n03 (1988-Spring).cbr
+000067128971 Shock Xpress v02n04 (1988-Summer).cbr
+000034017734 Shriek! The Monster Horror Magazine 01 (1965-05) (bones666-DREGS).cbr
+000034431014 Shriek! The Monster Horror Magazine 02 (1965-10) (bones666-DREGS).cbr
+000032790134 Shriek! The Monster Horror Magazine 03 (1966-Summer) (bones666-DREGS).cbr
+000032497478 Shriek! The Monster Horror Magazine 04 (1966-Winter) (bones666-DREGS).cbr
+000057916002 Silver Screen Horror v46n03 (1977-05) (Huesos-Sprout-DREGS).cbr
+000036291524 Silver Screen Horror v46n03 (1977-05) (jodyanimator).cbz
+000027615153 Slaughterhouse 01 (1988) (HCS).cbr
+000015528318 Slaughterhouse 02 (1989) (HL3).cbz
+000051449870 Slaughterhouse 03 (1989) (Nagus).cbr
+000050419409 Slaughterhouse 04 (1989) (Nagus).cbr
+000048165685 Slaughterhouse 05 (1989) (Nagus).cbr
+000041403221 Slaughterhouse 05 (1989).cbr
+000002844809 Slimetime 13 (1987-12).pdf
+000049831337 Space Trek Special (1978).cbr
+000061371091 Space Wars Heroes v01n03 (1977-Spring) (DREGS).cbr
+000033103217 Space Wars v01n01 (1977-10) (DREGS).cbr
+000041517523 Space Wars v01n02 (1977-12) (DREGS).cbr
+000049904754 Space Wars v02n01 (1978-02) (WorldWarSproutKK-DREGS).cbr
+000053799162 Space Wars v02n02 (1978-04).cbr
+000030096099 Space Wars v02n03 (1978-06) (bones666-DREGS).cbr
+000045558247 Space Wars v02n04 (1978-08).cbr
+000054105161 Space Wars v02n05 (1978-12).cbr
+000038657239 Space Wars v02n08 (1979-05) (BONES).cbr
+000052932034 Space Wars v03n03 (1979-07).cbr
+000082070745 Space Wars v04n02 (1980-05) (DREGSdeliverJustice).cbr
+000030290897 Spacemen 04 (1962-06) (bones666-DREGS).cbr
+000043661722 Star Battles v02n01 (1979-Spring) (Twobyfour-DREGS).cbr
+000037287027 Star Invaders 03 (1985-Spring).cbr
+000065027482 Star Warp v01n01 (1978-04) (SFSammy-BONES).cbr
+000033040465 Starblazer 02 (1984-09) (Carbunkle-DCP).cbr
+000037491193 Starburst v01n02 (1978-03).cbr
+000037760532 Starburst v01n03 (1978-05).cbr
+000032619184 Starburst v01n05 (1978-12).cbr
+000070347945 Starburst v04n12 (1982-08) (Nagus).cbr
+000002669654 Sub Terrenea 07 (1991).pdf
+000007287833 THEM! 01 (1991).cbr
+000018020489 TV Sci-Fi Monthly 01 (1976).cbr
+000019254420 TV Sci-Fi Monthly 02 (1976).cbr
+000024482759 TV Sci-Fi Monthly 03 (1976).cbr
+000021594435 TV Sci-Fi Monthly 04 (1976).cbr
+000016445762 TV Sci-Fi Monthly 05 (1976) (jodyanimator).cbz
+000023589695 TV Sci-Fi Monthly 05 (1976).cbr
+000017475971 TV Sci-Fi Monthly 06 (1976) (jodyanimator).cbz
+000021521374 TV Sci-Fi Monthly 06 (1976) [fixed].cbr
+000022207601 TV Sci-Fi Monthly 06 (1976).cbr
+000016890267 TV Sci-Fi Monthly 07 (1976) (jodyanimator).cbz
+000021393857 TV Sci-Fi Monthly 07 (1976).cbr
+000016192441 TV Sci-Fi Monthly 08 (1976) (jodyanimator).cbz
+000023887786 TV Sci-Fi Monthly 08 (1976).cbr
+000018420836 TV Zone 001 (1989-09+10).pdf
+000080233701 TV Zone 015 (1991-02) (NS2011) [rescan].cbr
+000022019600 TV Zone 015 (1991-02) (wolfscan-DCP).cbr
+000094646539 TV Zone 016 (1991-03) (NS2011).cbr
+000086107566 TV Zone 017 (1991-04) (NS2011).cbr
+000080844933 TV Zone 018 (1991-05) (NS2011).cbr
+000082176020 TV Zone 019 (1991-06) (NS2011).cbr
+000086887864 TV Zone 020 (1991-07) (NS2011).cbr
+000081410346 TV Zone 021 (1991-08) (NS2011).cbr
+000084952524 TV Zone 022 (1991-09) (NS2011).cbr
+000082655745 TV Zone 023 (1991-10) (NS2011).cbr
+000086173433 TV Zone 024 (1991-11) (NS2011).cbr
+000086213442 TV Zone 025 (1991-12) (NS2011).cbr
+000165880336 TV Zone 026 (1992-01) (NS2011).cbr
+000086580323 TV Zone 027 (1992-02) (NS2011).cbr
+000084550993 TV Zone 028 (1992-03) (NS2011).cbr
+000084145816 TV Zone 029 (1992-04) (NS2011).cbr
+000088269940 TV Zone 030 (1992-05) (NS2011).cbr
+000092775050 TV Zone 031 (1992-06) (NS2011).cbr
+000083499806 TV Zone 032 (1992-07) (NS2011).cbr
+000083989789 TV Zone 033 (1992-08) (NS2011).cbr
+000083987895 TV Zone 034 (1992-09) (NS2011).cbr
+000087356672 TV Zone 035 (1992-10) (NS2011).cbr
+000092402632 TV Zone 036 (1992-11) (NS2011).cbr
+000147593366 TV Zone 038 (1993-01) (NS2011).cbr
+000082178933 TV Zone 039 (1993-02) (NS2011).cbr
+000187708962 TV Zone 040 (1993-03) (NS2011).cbr
+000101226475 TV Zone 041 (1993-04) (NS2011).cbr
+000098374199 TV Zone 045 (1993-08) (NS2011).cbr
+000100892289 TV Zone 046 (1993-09) (NS2011).cbr
+000091717897 TV Zone 047 (1993-10) (NS2011).cbr
+000097171557 TV Zone 048 (1993-11) (NS2011).cbr
+000093117187 TV Zone 049 (1993-12) (NS2011).cbr
+000148108048 TV Zone 050 (1994-01) (NS2011).cbr
+000103554204 TV Zone 051 (1994-02) (NS2011).cbr
+000098665562 TV Zone 055 (1994-06) (NS2011).cbr
+000142018851 TV Zone 065 (1995-04) (NS2011).cbr
+000203306920 TV Zone 090 (1997-05) (NS2011).cbr
+000207104607 TV Zone 094 (1997-09) (NS2011).cbr
+000138414593 TV Zone Special 002 (1991-08) (NS2011).cbr
+000149359259 TV Zone Special 003 (1991-11) (NS2011).cbr
+000141990742 TV Zone Special 004 (1992-02) (NS2011).cbr
+000155696682 TV Zone Special 005 (1992-04) (NS2011).cbr
+000023696762 TV Zone Special 005 (1992-04) (wolscan).cbr
+000031351079 TV Zone Special 006 (1992-08) (shrunk).cbr
+000132546074 TV Zone Special 006 (1992-08) [a1].cbr
+000141787273 TV Zone Special 006 (1992-08) [a2].cbr
+000151117649 TV Zone Special 007 (1992-11) (NS2011).cbr
+000162230455 TV Zone Special 008 (1993-03) (NS2011).cbr
+000151351754 TV Zone Special 010 (1993-08) (NS2011).cbr
+000140027194 TV Zone Special 011 (1993-12) (NS2011).cbr
+000229329656 TV Zone Special 025 (1997-05) (NS2011).cbr
+000068714513 TV Zone Special 031 (1998-12).cbr
+000001001825 Temple of Schlock 01 (1987-07).cbr
+000001018316 Temple of Schlock 02 (1987-12).cbr
+000000755459 Temple of Schlock 03 (1988-01).cbr
+000000834642 Temple of Schlock 04 (1988-02).cbr
+000000819790 Temple of Schlock 05 (1988-03).cbr
+000001846278 Temple of Schlock 18 (1989-06).cbr
+000003769237 The 14 Leaflet v01n09 (1937-Spring).cbr
+000045369705 The Dark Side 001 (1990-10).cbr
+000029455547 The Dark Side 002 (1990-11).cbr
+000027269881 The Dark Side 003 (1990-12).cbr
+000026489727 The Dark Side 004 (1991-01).cbr
+000025741701 The Dark Side 005 (1991-02).cbr
+000024874625 The Dark Side 006 (1991-03).cbr
+000025154807 The Dark Side 007 (1991-04).cbr
+000016668629 The Dark Side 055 (1996) (HL3).cbz
+000017464788 The Dark Side 056 (1996) (HL3).cbz
+000074153267 The Disruptor 06 (1991-07) (Gorgon776).cbr
+000011925432 The Horror Collection 01 (2007).cbr
+000009229710 The Horror Collection 02 (2007).cbr
+000009309139 The Horror Collection 03 (2007).cbr
+000008673727 The Horror Collection 04 (2007).cbr
+000009233230 The Horror Collection 05 (2007).cbr
+000020916667 The House That Hammer Built 01 (1997).cbr
+000030239937 The Journal of Frankenstein 01 (1959).cbr
+000037840658 The Journal of Frankenstein 04 (2000) (YZ1).cbr
+000053662428 The Monster Times 001 (1972-01-26) (bones666-DREGS).cbr
+000043865163 The Monster Times 001 (1972-01-26).cbr
+000055020915 The Monster Times 002 (1972-02-16) (bones666-DREGS).cbr
+000042728523 The Monster Times 002 (1972-02-16).cbr
+000050250935 The Monster Times 003 (1972-03-01) (bones666-DREGS).cbr
+000047596737 The Monster Times 004 (1972-03-15) (bones666-DREGS).cbr
+000040342441 The Monster Times 004 (1972-03-15).cbr
+000056433869 The Monster Times 005 (1972-03-29) (bones666-DREGS).cbr
+000042403853 The Monster Times 005 (1972-03-29).cbr
+000058104727 The Monster Times 006 (1972-04-12) (bones666-DREGS).cbr
+000059393724 The Monster Times 007 (1972-04-26) (bones666-DREGS).cbr
+000050178156 The Monster Times 008 (1972-05-10) (bones666-DREGS).cbr
+000065116198 The Monster Times 009 (1972-05-17) (bones666-DREGS).cbr
+000029221845 The Monster Times 010 (1972-05-31) (DREGS).cbr
+000026233563 The Monster Times 011 (1972-06-14) (DREGS).cbr
+000049933270 The Monster Times 012 (1972-06-28) (bones666-DREGS).cbr
+000025532506 The Monster Times 013 (1972-07-19) (DREGS).cbr
+000134899670 The Monster Times 013 (1972-07-19) (PeteThePIPster).cbz
+000031229634 The Monster Times 014 (1972-07-31) (DREGS).cbr
+000026174015 The Monster Times 015 (1972-09-06) (BONES).cbr
+000026394617 The Monster Times 016 (1972-10-18).cbr
+000025873765 The Monster Times 017 (1972-11-30).cbr
+000025092167 The Monster Times 018 (1972-12-12).cbr
+000029186582 The Monster Times 019 (1973-02).cbr
+000027062794 The Monster Times 020 (1973-03).cbr
+000035029414 The Monster Times 021 (1973-04).cbr
+000013096523 The Monster Times 023 (1973-06) (Bollywollox).cbr
+000053149588 The Monster Times 024 (1973-07) (bones666-DREGS).cbr
+000039386188 The Monster Times 025 (1973-08).cbr
+000053609808 The Monster Times 028 (1973-11) (bones666-DREGS).cbr
+000051313566 The Monster Times 029 (1973-12) (bones666-DREGS).cbr
+000043774415 The Monster Times 030 (1974-02).cbr
+000050883544 The Monster Times 031 (1974-03).cbr
+000054821042 The Monster Times 032 (1974-04).cbr
+000058123577 The Monster Times 033 (1974-05).cbr
+000055424860 The Monster Times 034 (1974-06).cbr
+000064156884 The Monster Times 035 (1974-07).cbr
+000056622284 The Monster Times 036 (1974-10) (bones666-DREGS).cbr
+000058876028 The Monster Times 037 (1974-12).cbr
+000051375718 The Monster Times 038 (1975-01).cbr
+000047237771 The Monster Times 039 (1975-03).cbr
+000061492091 The Monster Times 040 (1975-04).cbr
+000059450770 The Monster Times 041 (1975-05).cbr
+000064674510 The Monster Times 042 (1975-07).cbr
+000061493552 The Monster Times 043 (1975-09) (bones666-DREGS).cbr
+000014812441 The Monster Times Collectors Issue 01 (1973) (bones666-DREGS).cbr
+000036515633 The Monster Times Collectors Issue 02 (1974) (DREGS).cbr
+000010398119 The Monster Times Collectors Issue 03 (1974).cbr
+000052012445 The Scream Factory 10 (1992-Autumn).cbr
+000065407075 The Scream Factory 15 (1994-Autumn).cbr
+000053559957 The Scream Factory Presents Night of the Living Dead 25th Anniversary Tribute (1993).cbr
+000017678862 The Splatter Times 01 (1983-Spring).cbr
+000014888104 The Splatter Times 02 (1983-Summer).cbr
+000019013806 The Splatter Times 03 (1983-Winter).cbr
+000025552808 The Splatter Times 04 (1984-Summer).cbr
+000020498827 The Splatter Times 05 (1984-Fall).cbr
+000016705863 The Splatter Times 07 (1985-Winter).cbr
+000005584392 The Splatter Times 08 (1987-Winter) (toecutter).cbr
+000026099830 The Very Best of High Society Scream Queens.cbr
+000016539089 Thriller 01 (1972) (BONES).cbr
+000009890570 Toxic Horror 01 (1989).cbr
+000010162761 Toxic Horror 02 (1989).cbr
+000100139008 Toxic Horror 03 (1990).cbr
+000013442918 Toxic Horror 04 (1990).cbr
+000091304685 Toxic Horror 05 (1990).cbr
+000034778313 Trashfiend 01 (2002) (YZ1).cbr
+000037330389 Trashfiend 02 (2002) (YZ1).cbr
+000087456745 Twilight Zone Magazine v01n02 (1981-05) (Gorgon776).cbr
+000116141358 Twilight Zone Magazine v07n06 (1988-02) (RUL666).cbr
+000069078551 Two-Gun Western v02n05 (1955-11) (Gambit-Darwin).cbr
+000097366686 Two-Gun Western v03n01 (1942-01) (Gambit-Darwin).cbr
+000091277338 Two-Gun Western v03n02 (1942-04) (TeamMal-DPP).cbr
+000054501408 UFO Universe Presents Space Monsters 01 (1990-02) (DREGS).cbr
+000087853345 Ultra Violent 10 (2009) (StinkyCheeseMan).cbr
+000046349187 Undying Monsters v01n00 (2011-Summer).cbr
+000030985827 Video Today Guide To Horror Video (1986) (PePo).cbr
+000034783313 Videooze 01 (1990-Fall) (toecutter).cbr
+000041087185 Videooze 02 (1991-Spring) (toecutter) [edit].cbr
+000069108863 Videooze 02 (1991-Spring) (toecutter).cbr
+000039498331 Videooze 03 (1991-Winter) (djangokiller).cbr
+000035268488 Videooze 04 (1992-Summer) (djangokiller).cbr
+000047556214 Videooze 06+07 (1997) (djangokiller).cbr
+000015872458 Vortex 001 (2009-03).pdf
+000004271127 Vortex 002 (2009-04).pdf
+000003620014 Vortex 003 (2009-05).pdf
+000004845233 Vortex 004 (2009-06).pdf
+000004680808 Vortex 005 (2009-07).pdf
+000013287359 Vortex 006 (2009-08).pdf
+000014604758 Vortex 007 (2009-09).pdf
+000013611833 Vortex 008 (2009-10).pdf
+000016505673 Vortex 009 (2009-11).pdf
+000004709136 Vortex 010 (2009-12).pdf
+000004227008 Vortex 011 (2010-01).pdf
+000004491164 Vortex 012 (2010-02).pdf
+000009095338 Vortex 013 (2010-03).pdf
+000005060163 Vortex 014 (2010-04).pdf
+000004674026 Vortex 015 (2010-05).pdf
+000004843205 Vortex 016 (2010-06).pdf
+000007061267 Vortex 017 (2010-07).pdf
+000007359219 Vortex 018 (2010-08).pdf
+000007811943 Vortex 019 (2010-09).pdf
+000006567410 Vortex 020 (2010-10).pdf
+000005859522 Vortex 021 (2010-11).pdf
+000009812720 Vortex 022 (2010-12).pdf
+000009124550 Vortex 023 (2011-01).pdf
+000045794042 We Belong Dead 08 (1997-Summer).cbr
+000237225247 Werewolves and Vampires v01n01 (1962) (Sparkman).cbr
+000026247124 World of Horror 001 (1972).cbr
+000041678640 World of Horror 006 (1972).cbz
+000021212084 Wrapped In Plastic 54 (2001-08) (YZ1).cbr
+000020694180 Wrapped In Plastic 55 (2001-10) (YZ1).cbr
+000018494741 Wrapped In Plastic 57 (2002-02) (YZ1).cbr
+000018455210 Wrapped In Plastic 58 (2002-04) (YZ1).cbr
+000019669679 Wrapped In Plastic 59 (2002-06) (YZ1).cbr
+000022490239 Wrapped In Plastic 61 (2002-10) (YZ1).cbr
+000023314979 Wrapped In Plastic 64 (2003-04) (YZ1).cbr
+000031324133 Wrapped in Plastic 12 (1994-08) (YZ1).cbr
+000020637372 Wrapped in Plastic 48 (2000-08) (YZ1).cbr
+000304574937 Wrapped in Plastic 48 (2000-08).cbz
+000020981516 Wrapped in Plastic 56 (2001-12) (YZ1).cbr
+000152154652 Wrapped in Plastic 62 (2002-12).cbz
+000002142012 Yeeeuuch! 01.cbr
+000002797856 Yeeeuuch! 02.cbr
+000002363570 Yeeeuuch! 03 (1987-03).cbr
+000003145404 Yeeeuuch! 04 (1987-04).cbr
+000004847017 Z Magazine 01 (2011-Fall).pdf
